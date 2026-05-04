@@ -10,7 +10,7 @@
   try {
     const path = window.location.pathname;
 
-    // Example: /postoffice/683522
+    // /postoffice/683522
     const parts = path.split("/");
     const pincode = parts[2];
 
@@ -21,7 +21,9 @@
       });
     }
 
-    const response = await fetch(`${pincode}.json`);
+    const folder = pincode.substring(0, 2);
+
+    const response = await fetch(`${folder}/${pincode}.json`);
 
     if (!response.ok) {
       return send({
