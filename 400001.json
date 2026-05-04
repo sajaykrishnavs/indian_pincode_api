@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "MPT SO",
+        "District": "MUMBAI",
+        "State": "MAHARASHTRA",
+        "Region": "Mumbai Region",
+        "Division": "Mumbai City South Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Tajmahal SO",
+        "District": "MUMBAI",
+        "State": "MAHARASHTRA",
+        "Region": "Mumbai Region",
+        "Division": "Mumbai City South Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mumbai GPO",
+        "District": "MUMBAI",
+        "State": "MAHARASHTRA",
+        "Region": "Mumbai Region",
+        "Division": "Mumbai GPO Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bazargate SO",
+        "District": "MUMBAI",
+        "State": "MAHARASHTRA",
+        "Region": "Mumbai Region",
+        "Division": "Mumbai City South Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Stock Exchange SO",
+        "District": "MUMBAI",
+        "State": "MAHARASHTRA",
+        "Region": "Mumbai Region",
+        "Division": "Mumbai City South Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Town Hall SO Mumbai",
+        "District": "MUMBAI",
+        "State": "MAHARASHTRA",
+        "Region": "Mumbai Region",
+        "Division": "Mumbai City South Division",
+        "Country": "India"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Lumlingthyang BO",
+        "District": "EAST DISTRICT",
+        "State": "SIKKIM",
+        "Region": "DivReportingCircle",
+        "Division": "Sikkim Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dikchu SO",
+        "District": "EAST DISTRICT",
+        "State": "SIKKIM",
+        "Region": "DivReportingCircle",
+        "Division": "Sikkim Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Gor BO",
+        "District": "NORTH DISTRICT",
+        "State": "SIKKIM",
+        "Region": "DivReportingCircle",
+        "Division": "Sikkim Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Raley Khesey BO",
+        "District": "EAST DISTRICT",
+        "State": "SIKKIM",
+        "Region": "DivReportingCircle",
+        "Division": "Sikkim Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Samdong BO",
+        "District": "EAST DISTRICT",
+        "State": "SIKKIM",
+        "Region": "DivReportingCircle",
+        "Division": "Sikkim Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Rakdong BO",
+        "District": "EAST DISTRICT",
+        "State": "SIKKIM",
+        "Region": "DivReportingCircle",
+        "Division": "Sikkim Division",
+        "Country": "India"
+    }
+]

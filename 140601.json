@@ -1,0 +1,42 @@
+[
+    {
+        "Name": "Jhansla BO",
+        "District": "PATIALA",
+        "State": "PUNJAB",
+        "Region": "DivReportingCircle",
+        "Division": "Patiala Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Karala BO",
+        "District": "PATIALA",
+        "State": "PUNJAB",
+        "Region": "DivReportingCircle",
+        "Division": "Patiala Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ramgarh BO",
+        "District": "PATIALA",
+        "State": "PUNJAB",
+        "Region": "DivReportingCircle",
+        "Division": "Patiala Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Banur SO",
+        "District": "S.A.S Nagar",
+        "State": "PUNJAB",
+        "Region": "DivReportingCircle",
+        "Division": "Patiala Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nagal Charbar BO",
+        "District": "S.A.S Nagar",
+        "State": "PUNJAB",
+        "Region": "DivReportingCircle",
+        "Division": "Patiala Division",
+        "Country": "India"
+    }
+]

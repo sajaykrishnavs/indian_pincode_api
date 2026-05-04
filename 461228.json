@@ -1,0 +1,338 @@
+[
+    {
+        "Name": "Bajania B.O",
+        "District": "HARDA",
+        "State": "MADHYA PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Hoshangabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dhekna B.O",
+        "District": "HOSHANGABAD",
+        "State": "MADHYA PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Hoshangabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Maniakhedi B.O",
+        "District": "HARDA",
+        "State": "MADHYA PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Hoshangabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nosar B.O",
+        "District": "HARDA",
+        "State": "MADHYA PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Hoshangabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pokhrani B.O",
+        "District": "HARDA",
+        "State": "MADHYA PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Hoshangabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Samardha B.O",
+        "District": "HARDA",
+        "State": "MADHYA PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Hoshangabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Tega",
+        "District": "HARDA",
+        "State": "MADHYA PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Hoshangabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Banspani",
+        "District": "HARDA",
+        "State": "MADHYA PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Hoshangabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kumroom",
+        "District": "HARDA",
+        "State": "MADHYA PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Hoshangabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Samardha",
+        "District": "HARDA",
+        "State": "MADHYA PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Hoshangabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Timarni S.O",
+        "District": "HARDA",
+        "State": "MADHYA PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Hoshangabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Charkheda B.O",
+        "District": "HARDA",
+        "State": "MADHYA PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Hoshangabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Tajpur B.O",
+        "District": "HARDA",
+        "State": "MADHYA PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Hoshangabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Badwani Vangram",
+        "District": "HARDA",
+        "State": "MADHYA PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Hoshangabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Gangradhana",
+        "District": "HARDA",
+        "State": "MADHYA PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Hoshangabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Lodhidhana",
+        "District": "HARDA",
+        "State": "MADHYA PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Hoshangabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kayari",
+        "District": "HARDA",
+        "State": "MADHYA PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Hoshangabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Malegaon",
+        "District": "HARDA",
+        "State": "MADHYA PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Hoshangabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Lahi",
+        "District": "HARDA",
+        "State": "MADHYA PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Hoshangabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kamtha",
+        "District": "HARDA",
+        "State": "MADHYA PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Hoshangabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Gondgaonkala B.O",
+        "District": "HARDA",
+        "State": "MADHYA PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Hoshangabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jhadbeeda B.O",
+        "District": "HARDA",
+        "State": "MADHYA PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Hoshangabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pantalai B.O",
+        "District": "HARDA",
+        "State": "MADHYA PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Hoshangabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Rahatgaon B.O",
+        "District": "HARDA",
+        "State": "MADHYA PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Hoshangabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Junapani",
+        "District": "HARDA",
+        "State": "MADHYA PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Hoshangabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bodhi",
+        "District": "HARDA",
+        "State": "MADHYA PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Hoshangabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bapcha",
+        "District": "HARDA",
+        "State": "MADHYA PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Hoshangabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chandarkhal",
+        "District": "HARDA",
+        "State": "MADHYA PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Hoshangabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chhepaner B.O",
+        "District": "HARDA",
+        "State": "MADHYA PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Hoshangabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nayagaon B.O",
+        "District": "HARDA",
+        "State": "MADHYA PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Hoshangabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Shodalpur B.O",
+        "District": "HARDA",
+        "State": "MADHYA PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Hoshangabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Temagaon B.O",
+        "District": "HARDA",
+        "State": "MADHYA PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Hoshangabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Keli",
+        "District": "HARDA",
+        "State": "MADHYA PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Hoshangabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Khumi",
+        "District": "HARDA",
+        "State": "MADHYA PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Hoshangabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mahukhal",
+        "District": "HARDA",
+        "State": "MADHYA PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Hoshangabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Badjhiri",
+        "District": "HARDA",
+        "State": "MADHYA PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Hoshangabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Lakhadeh",
+        "District": "HARDA",
+        "State": "MADHYA PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Hoshangabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bhadugaon B.O",
+        "District": "HARDA",
+        "State": "MADHYA PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Hoshangabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bichhapur B.O",
+        "District": "HARDA",
+        "State": "MADHYA PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Hoshangabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chhidgaon B.O",
+        "District": "HARDA",
+        "State": "MADHYA PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Hoshangabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Rawang",
+        "District": "HARDA",
+        "State": "MADHYA PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Hoshangabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Churni",
+        "District": "HARDA",
+        "State": "MADHYA PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Hoshangabad Division",
+        "Country": "India"
+    }
+]

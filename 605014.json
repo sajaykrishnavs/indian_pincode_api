@@ -1,0 +1,34 @@
+[
+    {
+        "Name": "Kilpudupattu BO",
+        "District": "VILLUPURAM",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Pondicherry Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pondicherry University SO",
+        "District": "PONDICHERRY",
+        "State": "PUDUCHERRY",
+        "Region": "Chennai City Region",
+        "Division": "Pondicherry Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Calapet BO",
+        "District": "PONDICHERRY",
+        "State": "PUDUCHERRY",
+        "Region": "Chennai City Region",
+        "Division": "Pondicherry Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kaluperumbakkam BO",
+        "District": "VILLUPURAM",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Pondicherry Division",
+        "Country": "India"
+    }
+]

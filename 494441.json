@@ -1,0 +1,514 @@
+[
+    {
+        "Name": "Ghotpal B.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Korlapal B.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "BADEPANEDA B.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jodatarai B.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Samlur B.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Upet B.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jhodiyabadam B.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Katulnar B.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Haram B.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Tunder B.O",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jawanga B.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "BADESUROKHI B.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "BANGAPAL B.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "GUMALNAR B.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "MADSE B.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "NAGUL B.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "PAHURNAR B.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Irpanar",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Cherpal BO",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Geedam S.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chhotetumnar B.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Gumda B.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Harrakoder B.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Karli B.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Koshalnar B.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ronje B.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "GUTOLI B.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kandoli B.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Muchnar B.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "TUMRIGUDA B.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Gomter",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kohkawada B.O",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sadar B.O",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bodhghat B.O",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Muhander B.O",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Salepal B.O",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kahachenar B.O",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bagmundi Panera B.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "BENGLUR B.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "HANDAWADA B.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "HIDPAL B.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "KORKOTTI B.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "MOPHALNAR B.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "TUSHAVAL B.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kasoli 02 B.O",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pawel B.O",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bodali B.O",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Tetam BO",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Barsoor B.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chhindnar B.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Heeranar B.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Korgaon B.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Shivanandashram B.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bade Tumnar B.O.",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "BADEKARLI B.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "BHATPAL B.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "MUSTALNAR B.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "HAURNAR",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Hitameta B.O",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mohnar",
+        "District": "DANTEWADA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Budgum B.O",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Katoli B.O",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Hitameta-2 BO",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pichchikoder B.O",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    }
+]

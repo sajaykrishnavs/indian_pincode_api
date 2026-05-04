@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Seliyamedu BO",
+        "District": "PONDICHERRY",
+        "State": "PUDUCHERRY",
+        "Region": "Chennai City Region",
+        "Division": "Pondicherry Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bahoor SO",
+        "District": "PONDICHERRY",
+        "State": "PUDUCHERRY",
+        "Region": "Chennai City Region",
+        "Division": "Pondicherry Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Thookkanambakkam BO",
+        "District": "CUDDALORE",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Pondicherry Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Courouvinatham BO",
+        "District": "PONDICHERRY",
+        "State": "PUDUCHERRY",
+        "Region": "Chennai City Region",
+        "Division": "Pondicherry Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Manamedu BO",
+        "District": "PONDICHERRY",
+        "State": "PUDUCHERRY",
+        "Region": "Chennai City Region",
+        "Division": "Pondicherry Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Manapet BO",
+        "District": "PONDICHERRY",
+        "State": "PUDUCHERRY",
+        "Region": "Chennai City Region",
+        "Division": "Pondicherry Division",
+        "Country": "India"
+    }
+]

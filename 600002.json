@@ -1,0 +1,34 @@
+[
+    {
+        "Name": "Chintadripet",
+        "District": "CHENNAI",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Chennai City North Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Anna Road H.O",
+        "District": "CHENNAI",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Anna Road H.O Division",
+        "Country": "India"
+    },
+    {
+        "Name": "CPRC Chennai",
+        "District": "NA",
+        "State": "NA",
+        "Region": "Chennai City Region",
+        "Division": "Anna Road H.O Division",
+        "Country": "India"
+    },
+    {
+        "Name": "MADRAS ELECTRICITY SYSTEM",
+        "District": "CHENNAI",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Chennai City North Division",
+        "Country": "India"
+    }
+]

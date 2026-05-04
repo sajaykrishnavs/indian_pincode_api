@@ -1,0 +1,586 @@
+[
+    {
+        "Name": "Beta",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Raksi",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Salo B.O",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ramar B.O",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chapalsi B.O",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chatakman",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jolanga",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kuswar",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Tamge Khurd",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Saneya",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kanjia BO",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ramkanda BO",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sribishrampur BO",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chete",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dudhwal",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Janewa",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sondag",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Barwadih BO",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Birajpur B.O",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chhetki B.O",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Barganwa",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Barwa",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Side",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Gangudih",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Gasedag",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Gobardaha",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Hesatu",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Barkol Kalan B.O",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kutil",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bandu BO",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bargarh BO",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Baligarh BO",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Barwadih",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bulka",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Phakiradih",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Katra",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Khardiha",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Tehri",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sukhbana BO",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bijka BO",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mahugain B.O",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Siroi Khurd B.O",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jonhikhar B.O",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Khura",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sinjo-2",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ranka Raj SO",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bairiya BO",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Karso BO",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nawa Bhandaria BO",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "SEWADIH BO",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Tamge Kala BO",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bahahara",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kachanpur",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Barkol Khurd B.O",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Binda",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nagari B.O",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jun",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Parro",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Godarmana BO",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Khajutia Barwadih BO",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Paraswar BO",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Udaipur BO",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Harhe",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Khapro",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Madgari (Chapia)",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Madgari (Kanjea)",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Manpur",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Serasam B.O",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pundaga",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Homia B.O",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Baradih",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jogi Khura",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Madgari-3",
+        "District": "GARHWA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    }
+]

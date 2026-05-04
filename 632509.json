@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Federation Buildings BO",
+        "District": "Ranipet",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Arakkonam Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Hakeemnagar SO",
+        "District": "Ranipet",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Arakkonam Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Arungundram BO",
+        "District": "Ranipet",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Arakkonam Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ayilam BO",
+        "District": "Ranipet",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Arakkonam Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kilvisharam BO",
+        "District": "Ranipet",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Arakkonam Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Melvisharam SO",
+        "District": "Ranipet",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Arakkonam Division",
+        "Country": "India"
+    }
+]

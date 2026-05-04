@@ -1,0 +1,74 @@
+[
+    {
+        "Name": "Sunket B.O",
+        "District": "NIZAMABAD",
+        "State": "TELANGANA",
+        "Region": "Hyderabad Region",
+        "Division": "Nizamabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Waddiyat B.O",
+        "District": "NIZAMABAD",
+        "State": "TELANGANA",
+        "Region": "Hyderabad Region",
+        "Division": "Nizamabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Lumbesu B.O",
+        "District": "VIZIANAGARAM",
+        "State": "ANDHRA PRADESH",
+        "Region": "Visakhapatnam Region",
+        "Division": "Parvathipuram Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bashirabad B.O",
+        "District": "NIZAMABAD",
+        "State": "TELANGANA",
+        "Region": "Hyderabad Region",
+        "Division": "Nizamabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Palem B.O",
+        "District": "NIZAMABAD",
+        "State": "TELANGANA",
+        "Region": "Hyderabad Region",
+        "Division": "Nizamabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Thorath B.O",
+        "District": "NIZAMABAD",
+        "State": "TELANGANA",
+        "Region": "Hyderabad Region",
+        "Division": "Nizamabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Thimmapur B.O",
+        "District": "NIZAMABAD",
+        "State": "TELANGANA",
+        "Region": "Hyderabad Region",
+        "Division": "Nizamabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ramannapet B.O",
+        "District": "NIZAMABAD",
+        "State": "TELANGANA",
+        "Region": "Hyderabad Region",
+        "Division": "Nizamabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Modtad S.O",
+        "District": "NIZAMABAD",
+        "State": "TELANGANA",
+        "Region": "Hyderabad Region",
+        "Division": "Nizamabad Division",
+        "Country": "India"
+    }
+]

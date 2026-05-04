@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Korhale B.O",
+        "District": "AHMEDNAGAR",
+        "State": "MAHARASHTRA",
+        "Region": "Pune Region",
+        "Division": "Shrirampur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kelwad B.O",
+        "District": "AHMEDNAGAR",
+        "State": "MAHARASHTRA",
+        "Region": "Pune Region",
+        "Division": "Shrirampur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Rahata S.O",
+        "District": "AHMEDNAGAR",
+        "State": "MAHARASHTRA",
+        "Region": "Pune Region",
+        "Division": "Shrirampur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pimpri Nirmal B.O",
+        "District": "AHMEDNAGAR",
+        "State": "MAHARASHTRA",
+        "Region": "Pune Region",
+        "Division": "Shrirampur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sakuri B.O",
+        "District": "AHMEDNAGAR",
+        "State": "MAHARASHTRA",
+        "Region": "Pune Region",
+        "Division": "Shrirampur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Astgaon B.O",
+        "District": "AHMEDNAGAR",
+        "State": "MAHARASHTRA",
+        "Region": "Pune Region",
+        "Division": "Shrirampur Division",
+        "Country": "India"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Name": "Govt.Gen Hospital S.O",
+        "District": "EAST GODAVARI",
+        "State": "ANDHRA PRADESH",
+        "Region": "Visakhapatnam Region",
+        "Division": "Kakinada Division",
+        "Country": "India"
+    },
+    {
+        "Name": "KD collectorate S.O",
+        "District": "EAST GODAVARI",
+        "State": "ANDHRA PRADESH",
+        "Region": "Visakhapatnam Region",
+        "Division": "Kakinada Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Suryaraopeta S.O",
+        "District": "EAST GODAVARI",
+        "State": "ANDHRA PRADESH",
+        "Region": "Visakhapatnam Region",
+        "Division": "Kakinada Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kakinada H.O",
+        "District": "Kakinada",
+        "State": "ANDHRA PRADESH",
+        "Region": "Visakhapatnam Region",
+        "Division": "Kakinada Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kakinada Bazar S.O",
+        "District": "EAST GODAVARI",
+        "State": "ANDHRA PRADESH",
+        "Region": "Visakhapatnam Region",
+        "Division": "Kakinada Division",
+        "Country": "India"
+    }
+]

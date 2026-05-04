@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Baliwal BO",
+        "District": "UNA",
+        "State": "HIMACHAL PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Una Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bhadauri BO",
+        "District": "UNA",
+        "State": "HIMACHAL PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Una Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Haroli SO",
+        "District": "UNA",
+        "State": "HIMACHAL PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Una Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sainsowal BO",
+        "District": "UNA",
+        "State": "HIMACHAL PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Una Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dharampur BO",
+        "District": "UNA",
+        "State": "HIMACHAL PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Una Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Palakwah BO",
+        "District": "UNA",
+        "State": "HIMACHAL PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Una Division",
+        "Country": "India"
+    }
+]

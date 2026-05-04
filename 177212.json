@@ -1,0 +1,34 @@
+[
+    {
+        "Name": "Nangal Jarialan BO",
+        "District": "UNA",
+        "State": "HIMACHAL PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Una Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ghanari SO",
+        "District": "UNA",
+        "State": "HIMACHAL PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Una Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Deoli BO",
+        "District": "UNA",
+        "State": "HIMACHAL PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Una Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sagnai BO",
+        "District": "UNA",
+        "State": "HIMACHAL PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Una Division",
+        "Country": "India"
+    }
+]

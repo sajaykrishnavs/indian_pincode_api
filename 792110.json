@@ -1,0 +1,714 @@
+[
+    {
+        "Name": "Angrim Valley",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Alinye",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ayeso",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Char - Kilo (Tapo)",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Aranli",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Eranli",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Athunli",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Edilin",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "New Arope(Hipui)",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ihinli",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Abango B.O",
+        "District": "LOWER DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bolung B.O",
+        "District": "LOWER DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Iduli B.O",
+        "District": "LOWER DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jia B.O",
+        "District": "LOWER DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Santipur B.O",
+        "District": "LOWER DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jambupani",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Cheta - II",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chidu",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mipido",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ambolin",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Arunli",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Apunli",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Amuchi",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Aunli",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chipuli",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Aruko",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Maliney",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "New Echanli",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Aoli",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dambuk B.O",
+        "District": "LOWER DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Elopa B.O",
+        "District": "LOWER DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kronli B.O",
+        "District": "LOWER DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Parbuk B.O",
+        "District": "LOWER DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Donli",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Desali H.Q.",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ezengo",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Remi",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Anelih B.O",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mihundo",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Cheya",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Aprunli",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Etalin Bridge Point",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mawali",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Akuli",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Engolin",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ichindo",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "New Anaya",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Paglam B.O",
+        "District": "LOWER DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chanli",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dopowa",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mitaka",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bomjir",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Loklung",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Aruli",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Anelih H.Q.",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Awoka",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ipingo",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Cheppe",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Wanli",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Arzoo",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bijari B.O",
+        "District": "LOWER DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Desali B.O",
+        "District": "LOWER DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Etalin B.O",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Hunli B.O",
+        "District": "LOWER DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Meka B.O",
+        "District": "LOWER DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sulongo",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "HukaniPengo",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Khinjili",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bizari I",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bizari II",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Tinali H.Q.",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Yuron",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Emiya",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Akobe",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Punli",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Anose",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sunil",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Etalin H.Q.",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "173 K.M. Point",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bomjir B.O",
+        "District": "LOWER DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Koranu B.O",
+        "District": "LOWER DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Brinli",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "New Elope",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Taloni",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Choroni",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Poblung - II",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sirang",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Keba",
+        "District": "DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Roing S.O",
+        "District": "LOWER DIBANG VALLEY",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Samchana BO",
+        "District": "ROHTAK",
+        "State": "HARYANA",
+        "Region": "DivReportingCircle",
+        "Division": "Rohtak Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Hassangarh SO",
+        "District": "ROHTAK",
+        "State": "HARYANA",
+        "Region": "DivReportingCircle",
+        "Division": "Rohtak Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nilothi BO",
+        "District": "JHAJJAR",
+        "State": "HARYANA",
+        "Region": "DivReportingCircle",
+        "Division": "Rohtak Division",
+        "Country": "India"
+    }
+]

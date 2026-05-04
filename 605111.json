@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Irumbai BO",
+        "District": "VILLUPURAM",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Pondicherry Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Rayapudupakkam BO",
+        "District": "VILLUPURAM",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Pondicherry Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Tiruchitambalam SO",
+        "District": "VILLUPURAM",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Pondicherry Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Hemerjickz centre BO",
+        "District": "VILLUPURAM",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Pondicherry Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Poothurai BO",
+        "District": "VILLUPURAM",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Pondicherry Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sedarapet BO",
+        "District": "PONDICHERRY",
+        "State": "PUDUCHERRY",
+        "Region": "Chennai City Region",
+        "Division": "Pondicherry Division",
+        "Country": "India"
+    }
+]

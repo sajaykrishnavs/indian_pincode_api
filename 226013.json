@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Diguria BO",
+        "District": "LUCKNOW",
+        "State": "UTTAR PRADESH",
+        "Region": "Lucknow  HQ Region",
+        "Division": "Lucknow Division",
+        "Country": "India"
+    },
+    {
+        "Name": "IIM Lucknow SO",
+        "District": "LUCKNOW",
+        "State": "UTTAR PRADESH",
+        "Region": "Lucknow  HQ Region",
+        "Division": "Lucknow Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ghaila BO",
+        "District": "LUCKNOW",
+        "State": "UTTAR PRADESH",
+        "Region": "Lucknow  HQ Region",
+        "Division": "Lucknow Division",
+        "Country": "India"
+    }
+]

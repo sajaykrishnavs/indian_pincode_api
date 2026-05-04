@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Behal BO",
+        "District": "Tarn Taran",
+        "State": "PUNJAB",
+        "Region": "Punjab West Region",
+        "Division": "Amritsar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Khawaspur BO",
+        "District": "Tarn Taran",
+        "State": "PUNJAB",
+        "Region": "Punjab West Region",
+        "Division": "Amritsar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Fatehabad SO Amritsar",
+        "District": "Tarn Taran",
+        "State": "PUNJAB",
+        "Region": "Punjab West Region",
+        "Division": "Amritsar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Khela BO",
+        "District": "Tarn Taran",
+        "State": "PUNJAB",
+        "Region": "Punjab West Region",
+        "Division": "Amritsar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Munda Pind BO",
+        "District": "Tarn Taran",
+        "State": "PUNJAB",
+        "Region": "Punjab West Region",
+        "Division": "Amritsar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Johal Dhai Wala BO",
+        "District": "Tarn Taran",
+        "State": "PUNJAB",
+        "Region": "Punjab West Region",
+        "Division": "Amritsar Division",
+        "Country": "India"
+    }
+]

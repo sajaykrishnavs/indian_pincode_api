@@ -1,0 +1,74 @@
+[
+    {
+        "Name": "Afjalpur Darauli BO",
+        "District": "SAMBHAL",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Moradabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ancholi BO",
+        "District": "SAMBHAL",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Moradabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sarthal BO",
+        "District": "SAMBHAL",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Moradabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bajhawli BO",
+        "District": "SAMBHAL",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Moradabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Tharesa Jai Singh BO",
+        "District": "SAMBHAL",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Moradabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Modhpur Wabai BO",
+        "District": "SAMBHAL",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Moradabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mohd Sadikpur BO",
+        "District": "SAMBHAL",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Moradabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Alipur Buzurg BO",
+        "District": "SAMBHAL",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Moradabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Narauli SO",
+        "District": "SAMBHAL",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Moradabad Division",
+        "Country": "India"
+    }
+]

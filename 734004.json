@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Dabgram BO",
+        "District": "JALPAIGURI",
+        "State": "WEST BENGAL",
+        "Region": "North Bengal Region",
+        "Division": "Darjeeling Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Desbandhupara SO",
+        "District": "JALPAIGURI",
+        "State": "WEST BENGAL",
+        "Region": "North Bengal Region",
+        "Division": "Darjeeling Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Siliguri Town SO",
+        "District": "DARJEELING",
+        "State": "WEST BENGAL",
+        "Region": "North Bengal Region",
+        "Division": "Darjeeling Division",
+        "Country": "India"
+    }
+]

@@ -1,0 +1,338 @@
+[
+    {
+        "Name": "Saitiyapur BO",
+        "District": "HARDOI",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Hardoi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sathara BO",
+        "District": "HARDOI",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Hardoi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Tatyora BO",
+        "District": "HARDOI",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Hardoi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Odra BO",
+        "District": "HARDOI",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Hardoi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kakendi BO",
+        "District": "HARDOI",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Hardoi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Poora Bahadur BO",
+        "District": "HARDOI",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Hardoi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Hardoi Kutchery SO",
+        "District": "HARDOI",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Hardoi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nabi Purwa SO",
+        "District": "HARDOI",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Hardoi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Vanshi Nagar SO",
+        "District": "HARDOI",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Hardoi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "White Ganj SO",
+        "District": "HARDOI",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Hardoi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Khajurahara BO",
+        "District": "HARDOI",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Hardoi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Turtipur BO",
+        "District": "HARDOI",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Hardoi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Eja BO",
+        "District": "HARDOI",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Hardoi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kurria BO",
+        "District": "HARDOI",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Hardoi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Malihamau BO",
+        "District": "HARDOI",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Hardoi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sakatpur BO",
+        "District": "MATHURA",
+        "State": "UTTAR PRADESH",
+        "Region": "Agra Region",
+        "Division": "Mathura Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kutuwapur BO",
+        "District": "HARDOI",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Hardoi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Naya Gaon Mubarakpur BO",
+        "District": "HARDOI",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Hardoi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dhiar Maholiya BO",
+        "District": "HARDOI",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Hardoi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Neer BO",
+        "District": "HARDOI",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Hardoi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Madara BO",
+        "District": "HARDOI",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Hardoi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pihani Chungi S.O",
+        "District": "HARDOI",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Hardoi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Munney Miyan Ka Chauraha SO",
+        "District": "HARDOI",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Hardoi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Avas Vikas Colony S.O",
+        "District": "HARDOI",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Hardoi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Lalpalpur BO",
+        "District": "HARDOI",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Hardoi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Rara BO",
+        "District": "HARDOI",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Hardoi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sikarohari BO",
+        "District": "HARDOI",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Hardoi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bawan BO",
+        "District": "HARDOI",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Hardoi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sursa BO",
+        "District": "HARDOI",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Hardoi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sakatpur BO",
+        "District": "HARDOI",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Hardoi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Hardoi R S SO",
+        "District": "HARDOI",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Hardoi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Lucknow Road SO",
+        "District": "HARDOI",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Hardoi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bawan Chungi S.O",
+        "District": "HARDOI",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Hardoi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sakara BO",
+        "District": "HARDOI",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Hardoi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kaudha BO",
+        "District": "HARDOI",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Hardoi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sadai Behta BO",
+        "District": "HARDOI",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Hardoi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Babnapur BO",
+        "District": "HARDOI",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Hardoi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bhadaicha BO",
+        "District": "HARDOI",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Hardoi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bahar BO",
+        "District": "HARDOI",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Hardoi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bharigawan B.O",
+        "District": "HARDOI",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Hardoi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Hardoi HO",
+        "District": "HARDOI",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Hardoi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Asha Nagar S.O",
+        "District": "HARDOI",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Hardoi Division",
+        "Country": "India"
+    }
+]

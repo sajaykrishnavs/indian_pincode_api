@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "New Delhi South ExtII SO",
+        "District": "South East",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi South Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Andrewsganj SO",
+        "District": "SOUTH",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi South Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Gautam Nagar SO",
+        "District": "South East",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi South Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sahpurjat BO",
+        "District": "SOUTH",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi South Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sadiq Nagar SO",
+        "District": "South East",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi South Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Gulmohar Park SO",
+        "District": "South East",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi South Division",
+        "Country": "India"
+    }
+]

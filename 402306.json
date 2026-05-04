@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Mazeri BO",
+        "District": "RAIGAD",
+        "State": "MAHARASHTRA",
+        "Region": "Navi Mumbai Region",
+        "Division": "Raigad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kumbheshivthar BO",
+        "District": "RAIGAD",
+        "State": "MAHARASHTRA",
+        "Region": "Navi Mumbai Region",
+        "Division": "Raigad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Taliye BO",
+        "District": "RAIGAD",
+        "State": "MAHARASHTRA",
+        "Region": "Navi Mumbai Region",
+        "Division": "Raigad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Varandh SO",
+        "District": "RAIGAD",
+        "State": "MAHARASHTRA",
+        "Region": "Navi Mumbai Region",
+        "Division": "Raigad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Barasgaon BO",
+        "District": "RAIGAD",
+        "State": "MAHARASHTRA",
+        "Region": "Navi Mumbai Region",
+        "Division": "Raigad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Padvi BO",
+        "District": "RAIGAD",
+        "State": "MAHARASHTRA",
+        "Region": "Navi Mumbai Region",
+        "Division": "Raigad Division",
+        "Country": "India"
+    }
+]

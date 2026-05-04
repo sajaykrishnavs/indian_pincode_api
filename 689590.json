@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Veliyanadu North BO",
+        "District": "ALAPPUZHA",
+        "State": "KERALA",
+        "Region": "DivReportingCircle",
+        "Division": "Tiruvalla Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Veliyanadu West BO",
+        "District": "ALAPPUZHA",
+        "State": "KERALA",
+        "Region": "DivReportingCircle",
+        "Division": "Tiruvalla Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Veliyanadu SO",
+        "District": "ALAPPUZHA",
+        "State": "KERALA",
+        "Region": "DivReportingCircle",
+        "Division": "Tiruvalla Division",
+        "Country": "India"
+    }
+]

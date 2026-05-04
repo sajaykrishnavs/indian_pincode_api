@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Walkheda B.O",
+        "District": "DHULE",
+        "State": "MAHARASHTRA",
+        "Region": "Regional Office Aurangabad",
+        "Division": "Dhule Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Songir S.O",
+        "District": "DHULE",
+        "State": "MAHARASHTRA",
+        "Region": "Regional Office Aurangabad",
+        "Division": "Dhule Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Waypur B.O",
+        "District": "DHULE",
+        "State": "MAHARASHTRA",
+        "Region": "Regional Office Aurangabad",
+        "Division": "Dhule Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pimparkheda B.O",
+        "District": "DHULE",
+        "State": "MAHARASHTRA",
+        "Region": "Regional Office Aurangabad",
+        "Division": "Dhule Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Waghadi Bk B.O",
+        "District": "DHULE",
+        "State": "MAHARASHTRA",
+        "Region": "Regional Office Aurangabad",
+        "Division": "Dhule Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Gorane B.O",
+        "District": "DHULE",
+        "State": "MAHARASHTRA",
+        "Region": "Regional Office Aurangabad",
+        "Division": "Dhule Division",
+        "Country": "India"
+    }
+]

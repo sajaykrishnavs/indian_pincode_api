@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Kadaperikuppam BO",
+        "District": "VILLUPURAM",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Pondicherry Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Coudapakkam BO",
+        "District": "PONDICHERRY",
+        "State": "PUDUCHERRY",
+        "Region": "Chennai City Region",
+        "Division": "Pondicherry Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Katterikuppam BO",
+        "District": "PONDICHERRY",
+        "State": "PUDUCHERRY",
+        "Region": "Chennai City Region",
+        "Division": "Pondicherry Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Valudavur SO",
+        "District": "VILLUPURAM",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Pondicherry Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Suthukeni BO",
+        "District": "PONDICHERRY",
+        "State": "PUDUCHERRY",
+        "Region": "Chennai City Region",
+        "Division": "Pondicherry Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Thondamanatham BO",
+        "District": "PONDICHERRY",
+        "State": "PUDUCHERRY",
+        "Region": "Chennai City Region",
+        "Division": "Pondicherry Division",
+        "Country": "India"
+    }
+]

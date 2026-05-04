@@ -1,0 +1,42 @@
+[
+    {
+        "Name": "Civil Lines SO North Delhi",
+        "District": "CENTRAL",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "Delhi North Division",
+        "Country": "India"
+    },
+    {
+        "Name": "District Courts SO North Delhi",
+        "District": "CENTRAL",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "Delhi North Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Patrachar Vidyalay SO",
+        "District": "CENTRAL",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "Delhi North Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Aruna Nagar SO",
+        "District": "CENTRAL",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "Delhi North Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Timarpur SO",
+        "District": "CENTRAL",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "Delhi North Division",
+        "Country": "India"
+    }
+]

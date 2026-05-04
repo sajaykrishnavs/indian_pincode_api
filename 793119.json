@@ -1,0 +1,602 @@
+[
+    {
+        "Name": "Kyrdum",
+        "District": "SOUTH WEST KHASI HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Byrki B.O",
+        "District": "WEST KHASI HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Langdongdai B.O",
+        "District": "WEST KHASI HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mawkohngei B.O",
+        "District": "WEST KHASI HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mawthungkper B.O",
+        "District": "WEST KHASI HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nongthynniew B.O",
+        "District": "WEST KHASI HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Phlangdiloin B.O",
+        "District": "WEST KHASI HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Rangblang B.O",
+        "District": "WEST KHASI HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jukisil",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Thiepkseh",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sohmynthar",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Khynrin",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mawdet",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mawlangstieh",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Urkhli",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mawmluh II",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mawlangriang",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Porla",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Umwein",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Umjakoid",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jaidoh B.O",
+        "District": "WEST KHASI HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Khliehmawlieh B.O",
+        "District": "WEST KHASI HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mawlieh B.O",
+        "District": "WEST KHASI HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pam Briew B.O",
+        "District": "WEST KHASI HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Thangpylleng Pyndemkseh B.O",
+        "District": "WEST KHASI HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nongrathaw",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jiriangsin",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Photjalei",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mawrok",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mawkhait Mihngi",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Umsaw",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nonglang B.O",
+        "District": "WEST KHASI HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Umdohlun B.O",
+        "District": "WEST KHASI HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Umsohpieng B.O",
+        "District": "WEST KHASI HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Wahkaji B.O",
+        "District": "WEST KHASI HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Myriem BO",
+        "District": "WEST KHASI HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Langja",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kyllon Mathei",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mawpon",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mawthir",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pungphreit",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Umiong",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mawrang",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Iew Rambrai",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mawsiangbah",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mawlangdep",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Laitphlang",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Umiang",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nongkhusba",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nongmalang",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nongstoin S.O",
+        "District": "WEST KHASI HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Maweitlyngngam B.O",
+        "District": "WEST KHASI HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mawthengkut B.O",
+        "District": "WEST KHASI HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nongkasen B.O",
+        "District": "WEST KHASI HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Rambrai B.O",
+        "District": "WEST KHASI HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Shallang B.O",
+        "District": "WEST KHASI HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Umyap B.O",
+        "District": "WEST KHASI HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Langshonthiang",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mawdong",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Umsiej",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Laitkseh B.O",
+        "District": "WEST KHASI HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Marskuin B.O",
+        "District": "WEST KHASI HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nongpyndeng B.O",
+        "District": "WEST KHASI HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nongsdad  Dkhar B.O",
+        "District": "WEST KHASI HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nongshyrkon B.O",
+        "District": "WEST KHASI HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pyndengrei B.O",
+        "District": "WEST KHASI HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dariphang",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mawrok Nongnah",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nongkyllang",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mawdumdum",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mawliehbah Mawnar",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mawduh",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mawlangsu",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mawiawet",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Thadteja",
+        "District": "WEST JAINTIA HILLS",
+        "State": "MEGHALAYA",
+        "Region": "Shillong HQ Region",
+        "Division": "Meghalaya Division",
+        "Country": "India"
+    }
+]

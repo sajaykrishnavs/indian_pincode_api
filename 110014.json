@@ -1,0 +1,34 @@
+[
+    {
+        "Name": "Hari Nagar Ashram SO",
+        "District": "South East",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi South Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pratap Market SO",
+        "District": "South East",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi South Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jeevan Nagar BO",
+        "District": "SOUTH",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi South Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jungpura SO",
+        "District": "SOUTH",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi South Division",
+        "Country": "India"
+    }
+]

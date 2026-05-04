@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Busstand SO",
+        "District": "SHIMLA",
+        "State": "HIMACHAL PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Shimla Division",
+        "Country": "India"
+    },
+    {
+        "Name": "CPRI SO",
+        "District": "SHIMLA",
+        "State": "HIMACHAL PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Shimla Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Shimla GPO",
+        "District": "SHIMLA",
+        "State": "HIMACHAL PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Shimla Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Combermere SO",
+        "District": "SHIMLA",
+        "State": "HIMACHAL PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Shimla Division",
+        "Country": "India"
+    },
+    {
+        "Name": "IGMC SO",
+        "District": "SHIMLA",
+        "State": "HIMACHAL PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Shimla Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Shimla High Court SO",
+        "District": "SHIMLA",
+        "State": "HIMACHAL PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Shimla Division",
+        "Country": "India"
+    }
+]

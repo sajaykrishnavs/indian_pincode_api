@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Bharwalia BO",
+        "District": "BASTI",
+        "State": "UTTAR PRADESH",
+        "Region": "Gorakhpur Region",
+        "Division": "Basti Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Khoria BO",
+        "District": "BASTI",
+        "State": "UTTAR PRADESH",
+        "Region": "Gorakhpur Region",
+        "Division": "Basti Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pagar BO",
+        "District": "BASTI",
+        "State": "UTTAR PRADESH",
+        "Region": "Gorakhpur Region",
+        "Division": "Basti Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bankati Bazar SO",
+        "District": "BASTI",
+        "State": "UTTAR PRADESH",
+        "Region": "Gorakhpur Region",
+        "Division": "Basti Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Barahuwan BO",
+        "District": "BASTI",
+        "State": "UTTAR PRADESH",
+        "Region": "Gorakhpur Region",
+        "Division": "Basti Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Deisand BO",
+        "District": "BASTI",
+        "State": "UTTAR PRADESH",
+        "Region": "Gorakhpur Region",
+        "Division": "Basti Division",
+        "Country": "India"
+    }
+]

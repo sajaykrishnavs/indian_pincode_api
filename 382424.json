@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Chandkheda Society Area SO",
+        "District": "AHMADABAD",
+        "State": "GUJARAT",
+        "Region": "Ahmedabad HQ Region",
+        "Division": "Ahmedabad City Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chandkheda BO",
+        "District": "AHMADABAD",
+        "State": "GUJARAT",
+        "Region": "Ahmedabad HQ Region",
+        "Division": "Ahmedabad City Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sughad BO",
+        "District": "GANDHINAGAR",
+        "State": "GUJARAT",
+        "Region": "Ahmedabad HQ Region",
+        "Division": "Ahmedabad City Division",
+        "Country": "India"
+    }
+]

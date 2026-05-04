@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Kollode BO",
+        "District": "THIRUVANANTHAPURAM",
+        "State": "KERALA",
+        "Region": "DivReportingCircle",
+        "Division": "Trivandrum South Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Malayam BO",
+        "District": "THIRUVANANTHAPURAM",
+        "State": "KERALA",
+        "Region": "DivReportingCircle",
+        "Division": "Trivandrum South Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Malayinkil SO",
+        "District": "THIRUVANANTHAPURAM",
+        "State": "KERALA",
+        "Region": "DivReportingCircle",
+        "Division": "Trivandrum South Division",
+        "Country": "India"
+    }
+]

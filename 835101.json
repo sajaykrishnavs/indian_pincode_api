@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Hakedag BO",
+        "District": "RANCHI",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Ranchi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Tetebandrampur BO",
+        "District": "RANCHI",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Ranchi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kuchu BO",
+        "District": "RANCHI",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Ranchi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chotamuri SO",
+        "District": "RANCHI",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Ranchi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Lagam BO",
+        "District": "RANCHI",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Ranchi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Halmad BO",
+        "District": "RANCHI",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Ranchi Division",
+        "Country": "India"
+    }
+]

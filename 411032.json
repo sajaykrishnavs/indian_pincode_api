@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Airport S.O (Pune)",
+        "District": "PUNE",
+        "State": "MAHARASHTRA",
+        "Region": "Pune Region",
+        "Division": "Pune City East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Iaf Station S.O",
+        "District": "PUNE",
+        "State": "MAHARASHTRA",
+        "Region": "Pune Region",
+        "Division": "Pune City East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Vidyanagar S.O (Pune)",
+        "District": "PUNE",
+        "State": "MAHARASHTRA",
+        "Region": "Pune Region",
+        "Division": "Pune City East Division",
+        "Country": "India"
+    }
+]

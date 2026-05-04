@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Pashta B.O",
+        "District": "DHULE",
+        "State": "MAHARASHTRA",
+        "Region": "Regional Office Aurangabad",
+        "Division": "Dhule Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ajande KH B.O",
+        "District": "DHULE",
+        "State": "MAHARASHTRA",
+        "Region": "Regional Office Aurangabad",
+        "Division": "Dhule Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kamkheda B.O",
+        "District": "DHULE",
+        "State": "MAHARASHTRA",
+        "Region": "Regional Office Aurangabad",
+        "Division": "Dhule Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Varud B.O",
+        "District": "DHULE",
+        "State": "MAHARASHTRA",
+        "Region": "Regional Office Aurangabad",
+        "Division": "Dhule Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nardana S.O",
+        "District": "DHULE",
+        "State": "MAHARASHTRA",
+        "Region": "Regional Office Aurangabad",
+        "Division": "Dhule Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Varshi B.O",
+        "District": "DHULE",
+        "State": "MAHARASHTRA",
+        "Region": "Regional Office Aurangabad",
+        "Division": "Dhule Division",
+        "Country": "India"
+    }
+]

@@ -1,0 +1,458 @@
+[
+    {
+        "Name": "Badekakloor B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mutanpal B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bade Kilepal-3 B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Koypal B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Topar B.O",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Metawada B.O",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chingpal B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Errakot B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Telemarenga B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Badekadma B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Burungapal B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Burungpal(Naharmunda) B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chhotegudra B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Turangur B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kumharsandra B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kalepal B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "BIRGALI B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kamanar B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kodenar-3 B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mawlibhata B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sadrabodenar B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Soorguda B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bhejripadar BO",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Badekilepal B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chitapur B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Keshapur B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Alwa B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bastanar-02 B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chhindabahar B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jamgaon B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kapanar B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nainnar B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Rajoor B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Goriyapal B.O",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kanakurushpal B.O",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Matkot B.O",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Badebodenar B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bastanar B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dilmili B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kodenar B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Michnar B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Neganar B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Raikot B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bade Kilepal-2 B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Badeparakot B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Irpa B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kaknar B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Keshloor B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kodenar-2 B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mangnar B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Palwa B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Tirthum B.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Salepal",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sanwgel B.O",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chhotebodenar B.O",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Badekakloor-2 B.O",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Tokapal Rajoor S.O",
+        "District": "BASTAR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    }
+]

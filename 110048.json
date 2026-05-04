@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Greater Kailash SO",
+        "District": "SOUTH",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi South Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kailash Colony SO",
+        "District": "South East",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi South Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Masjid Moth SO",
+        "District": "South East",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi South Division",
+        "Country": "India"
+    }
+]

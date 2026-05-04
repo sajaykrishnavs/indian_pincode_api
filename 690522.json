@@ -1,0 +1,34 @@
+[
+    {
+        "Name": "Thengamom BO",
+        "District": "PATHANAMTHITTA",
+        "State": "KERALA",
+        "Region": "DivReportingCircle",
+        "Division": "Pathanamthitta Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kakkakunnu BO",
+        "District": "KOLLAM",
+        "State": "KERALA",
+        "Region": "DivReportingCircle",
+        "Division": "Pathanamthitta Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Patharam BO",
+        "District": "KOLLAM",
+        "State": "KERALA",
+        "Region": "DivReportingCircle",
+        "Division": "Pathanamthitta Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sooranad SO",
+        "District": "KOLLAM",
+        "State": "KERALA",
+        "Region": "DivReportingCircle",
+        "Division": "Pathanamthitta Division",
+        "Country": "India"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "RTC Hempur SO",
+        "District": "UDAM SINGH NAGAR",
+        "State": "UTTARAKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Nainital Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Anandnagar BO",
+        "District": "NAINITAL",
+        "State": "UTTARAKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Nainital Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Thari BO",
+        "District": "NAINITAL",
+        "State": "UTTARAKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Nainital Division",
+        "Country": "India"
+    }
+]

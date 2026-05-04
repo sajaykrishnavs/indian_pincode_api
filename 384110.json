@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Der BO",
+        "District": "PATAN",
+        "State": "GUJARAT",
+        "Region": "Ahmedabad HQ Region",
+        "Division": "Patan Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Balisana SO",
+        "District": "PATAN",
+        "State": "GUJARAT",
+        "Region": "Ahmedabad HQ Region",
+        "Division": "Patan Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kani BO",
+        "District": "PATAN",
+        "State": "GUJARAT",
+        "Region": "Ahmedabad HQ Region",
+        "Division": "Patan Division",
+        "Country": "India"
+    }
+]

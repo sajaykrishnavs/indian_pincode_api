@@ -1,0 +1,786 @@
+[
+    {
+        "Name": "Bameng B.O",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Lada B.O",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pipu-dipu B.O",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Seba",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Lumdung",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pabua",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bisai",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sallang",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Rojo",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Londa",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "40 K.M. Camp",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Lochung",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kapu Dada",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Serewa",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jejudada",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dipu Lamgu",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dokre Gyadi",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Wada Bagang",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Doripu Bagang",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dao",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Lao",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Tapiaso",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nyoing",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bana B.O",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Veo B.O",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Gumtung",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sede",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kamrung(Neping)",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chamduk Leyak",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Fengche Jayanti",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Neking",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "18th Mile Camp",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sepilliang",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Flago",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nerewa",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Laimoya",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Miri Sollung",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bodhi",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nampe Bagang",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Palap",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pakke-Keshang H.Q.\/Upper Bazar Line\/Lowe",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Passo Camp",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Devegolo",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ningcho",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Yangsey",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Loffa",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Lada H.Q.",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kojo",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Lower Liyak",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Effa",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Poube Sullung",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bameng H.Q.",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bokar",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Wotte Cheda",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Paffa",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Waii",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Yangfo",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chayangtajo H.Q.",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Lamrah",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chyangtajo B.O",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Khenewa B.O",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "P.Kessang B.O",
+        "District": "PAKKE KESSANG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Palizi B.O",
+        "District": "WEST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Khodaso",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Palin",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Hote Veo",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Talomsima",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Richukrong H.Q.",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kafla",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Champing",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Drakshi",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Rapung",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pakke Camp",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Tabri",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dafri",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ligwa Gyadi",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Richi Lamgu",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Loto Yangfo",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Namta Yangfo",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Veo",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Thrizino B.O",
+        "District": "WEST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "New Sapong",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Fengche",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pakoti",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nyari Welly Model Village",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sachung",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Tawe",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nabalang",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jawa Camp",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Paksa",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Attarang",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Tagang Warang",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sangbia",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Saria Takhang",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Yakli Sullung",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Rusi",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Habia",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Seppa S.O",
+        "District": "EAST KAMENG",
+        "State": "ARUNACHAL PRADESH",
+        "Region": "Shillong HQ Region",
+        "Division": "Arunachal Pradesh Division",
+        "Country": "India"
+    }
+]

@@ -1,0 +1,354 @@
+[
+    {
+        "Name": "Bodla BO",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Gaurmati BO",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Koylari BO",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Rajanawagaon BO",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "KHARIYA B.O.",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Baijalpur BO",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Junwani BO",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Madmada BO",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Piparia BO",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Silhati BO",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sonbarsa BO",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sonpuri BO",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "MAGARWADA B.O.",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "BIRUTOLA B.O.",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "RAJADHAR B.O.",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "BAHNAKHODRA B.O.",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Taregaon B.O",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kawardha Collectorate",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dharampura BO",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kharhatta BO",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ranjitpur BO",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Singhangarh BO",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "KHADAUDA KHURD B.O.",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kesda B.O",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chilfi BO",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Daihandih BO",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Odiakhurd BO",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pondi BO",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ramhepur BO",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sarangpurkhurd BO",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "NEWARI B.O.",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "BENDARCHI B.O.",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "BOKKARKHAR B.O.",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "MINMINIA MAIDAN B.O.",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "DALDALI B.O.",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chhapari B.O",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kawardha SO",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Khairbana BO",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Maharjpur BO",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Neurgaon BO",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Rakse BO",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ranvirpur BO",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Raveli BO",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Surajpura BO",
+        "District": "KABIRDHAM",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Rajnandgaon Division",
+        "Country": "India"
+    }
+]

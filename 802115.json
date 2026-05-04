@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Ojha Baraon BO",
+        "District": "BUXAR",
+        "State": "BIHAR",
+        "Region": "DivReportingCircle",
+        "Division": "Buxar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chaugai SO",
+        "District": "BUXAR",
+        "State": "BIHAR",
+        "Region": "DivReportingCircle",
+        "Division": "Buxar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Phaphadar BO",
+        "District": "BUXAR",
+        "State": "BIHAR",
+        "Region": "DivReportingCircle",
+        "Division": "Bhojpur Division",
+        "Country": "India"
+    }
+]

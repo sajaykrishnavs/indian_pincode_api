@@ -1,0 +1,66 @@
+[
+    {
+        "Name": "Delhi GPO",
+        "District": "NORTH",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "Delhi GPO Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chawri Bazar SO",
+        "District": "NORTH",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "Delhi North Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Hauz Qazi SO",
+        "District": "NORTH",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi Central Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jama Masjid SO",
+        "District": "NORTH",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi Central Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dareeba SO",
+        "District": "NORTH",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "Delhi North Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Delhi Sadar Bazar SO",
+        "District": "NORTH",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "Delhi North Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Baratooti SO",
+        "District": "NORTH",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "Delhi North Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chandni Chowk SO",
+        "District": "NORTH",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "Delhi North Division",
+        "Country": "India"
+    }
+]

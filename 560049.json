@@ -1,0 +1,34 @@
+[
+    {
+        "Name": "Mandur B.O",
+        "District": "BENGALURU RURAL",
+        "State": "KARNATAKA",
+        "Region": "Bengaluru HQ Region",
+        "Division": "Bengaluru East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bhattarahalli S.O",
+        "District": "BENGALURU URBAN",
+        "State": "KARNATAKA",
+        "Region": "Bengaluru HQ Region",
+        "Division": "Bengaluru East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bidrahalli B.O",
+        "District": "BENGALURU URBAN",
+        "State": "KARNATAKA",
+        "Region": "Bengaluru HQ Region",
+        "Division": "Bengaluru East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Virgonagar S.O",
+        "District": "BENGALURU RURAL",
+        "State": "KARNATAKA",
+        "Region": "Bengaluru HQ Region",
+        "Division": "Bengaluru East Division",
+        "Country": "India"
+    }
+]

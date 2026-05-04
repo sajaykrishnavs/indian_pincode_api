@@ -1,0 +1,226 @@
+[
+    {
+        "Name": "Ambikapur HO",
+        "District": "SURGUJA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "SURGUJA DIVISION",
+        "Country": "India"
+    },
+    {
+        "Name": "Arabalrampur BO",
+        "District": "BALRAMPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "SURGUJA DIVISION",
+        "Country": "India"
+    },
+    {
+        "Name": "Baghima BO",
+        "District": "BALRAMPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "SURGUJA DIVISION",
+        "Country": "India"
+    },
+    {
+        "Name": "Kalyanpur BO",
+        "District": "SURGUJA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "SURGUJA DIVISION",
+        "Country": "India"
+    },
+    {
+        "Name": "Ambikapur Nyalaya SO",
+        "District": "SURGUJA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "SURGUJA DIVISION",
+        "Country": "India"
+    },
+    {
+        "Name": "Bhitthikala BO",
+        "District": "SURGUJA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "SURGUJA DIVISION",
+        "Country": "India"
+    },
+    {
+        "Name": "Karwan BO",
+        "District": "SURAJPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "SURGUJA DIVISION",
+        "Country": "India"
+    },
+    {
+        "Name": "Nawanagar BO",
+        "District": "SURGUJA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "SURGUJA DIVISION",
+        "Country": "India"
+    },
+    {
+        "Name": "Raghavpuri BO",
+        "District": "SURGUJA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "SURGUJA DIVISION",
+        "Country": "India"
+    },
+    {
+        "Name": "Barion BO",
+        "District": "BALRAMPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "SURGUJA DIVISION",
+        "Country": "India"
+    },
+    {
+        "Name": "Dhandhapur BO",
+        "District": "BALRAMPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "SURGUJA DIVISION",
+        "Country": "India"
+    },
+    {
+        "Name": "Kakna BO",
+        "District": "SURGUJA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "SURGUJA DIVISION",
+        "Country": "India"
+    },
+    {
+        "Name": "Karjee BO",
+        "District": "SURGUJA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "SURGUJA DIVISION",
+        "Country": "India"
+    },
+    {
+        "Name": "Latori BO",
+        "District": "SURAJPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "SURGUJA DIVISION",
+        "Country": "India"
+    },
+    {
+        "Name": "Parsa BO",
+        "District": "BALRAMPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "SURGUJA DIVISION",
+        "Country": "India"
+    },
+    {
+        "Name": "Sukhari BO",
+        "District": "SURGUJA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "SURGUJA DIVISION",
+        "Country": "India"
+    },
+    {
+        "Name": "Sakholi BO",
+        "District": "SURGUJA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "SURGUJA DIVISION",
+        "Country": "India"
+    },
+    {
+        "Name": "Silphili BO",
+        "District": "SURAJPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "SURGUJA DIVISION",
+        "Country": "India"
+    },
+    {
+        "Name": "Songara BO",
+        "District": "SURAJPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "SURGUJA DIVISION",
+        "Country": "India"
+    },
+    {
+        "Name": "Ambikapur Town SO",
+        "District": "SURGUJA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "SURGUJA DIVISION",
+        "Country": "India"
+    },
+    {
+        "Name": "Ajabnagar BO",
+        "District": "SURAJPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "SURGUJA DIVISION",
+        "Country": "India"
+    },
+    {
+        "Name": "Bargawan BO",
+        "District": "SURGUJA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "SURGUJA DIVISION",
+        "Country": "India"
+    },
+    {
+        "Name": "Darima BO",
+        "District": "SURGUJA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "SURGUJA DIVISION",
+        "Country": "India"
+    },
+    {
+        "Name": "Kundikala BO",
+        "District": "BALRAMPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "SURGUJA DIVISION",
+        "Country": "India"
+    },
+    {
+        "Name": "Nandamali BO",
+        "District": "SURGUJA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "SURGUJA DIVISION",
+        "Country": "India"
+    },
+    {
+        "Name": "Sakalo BO",
+        "District": "SURGUJA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "SURGUJA DIVISION",
+        "Country": "India"
+    },
+    {
+        "Name": "Mendrakala BO",
+        "District": "SURGUJA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "SURGUJA DIVISION",
+        "Country": "India"
+    },
+    {
+        "Name": "Funduldihari SO",
+        "District": "SURGUJA",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "SURGUJA DIVISION",
+        "Country": "India"
+    }
+]

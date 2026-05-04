@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Dr Ambedkar Nagar SO South Delhi",
+        "District": "SOUTH",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi South Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pushpa Bhawan SO",
+        "District": "SOUTH",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi South Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dakshinpuri PhaseI SO",
+        "District": "SOUTH",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi South Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Hamdard Nagar SO",
+        "District": "SOUTH",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi South Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dakshinpuri PhaseII SO",
+        "District": "SOUTH",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi South Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dakshinpuri PhaseIII SO",
+        "District": "SOUTH",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi South Division",
+        "Country": "India"
+    }
+]

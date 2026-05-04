@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Rampura BO",
+        "District": "NORTH WEST",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "Delhi North Division",
+        "Country": "India"
+    },
+    {
+        "Name": "C4 Keshav Puram SO North West Delhi",
+        "District": "NORTH WEST",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "Delhi North Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Keshavpuram SO",
+        "District": "NORTH WEST",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "Delhi North Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sarai Rohilla SO",
+        "District": "NORTH WEST",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "Delhi North Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ganeshpura SO",
+        "District": "NORTH WEST",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "Delhi North Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Power House SO",
+        "District": "NORTH WEST",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "Delhi North Division",
+        "Country": "India"
+    }
+]

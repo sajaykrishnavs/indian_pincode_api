@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Kahnaur SO",
+        "District": "ROHTAK",
+        "State": "HARYANA",
+        "Region": "DivReportingCircle",
+        "Division": "Rohtak Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chimni BO",
+        "District": "JHAJJAR",
+        "State": "HARYANA",
+        "Region": "DivReportingCircle",
+        "Division": "Rohtak Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dharana BO",
+        "District": "JHAJJAR",
+        "State": "HARYANA",
+        "Region": "DivReportingCircle",
+        "Division": "Rohtak Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Garnauthi BO",
+        "District": "ROHTAK",
+        "State": "HARYANA",
+        "Region": "DivReportingCircle",
+        "Division": "Rohtak Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kakrana BO",
+        "District": "ROHTAK",
+        "State": "HARYANA",
+        "Region": "DivReportingCircle",
+        "Division": "Rohtak Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sundana BO",
+        "District": "ROHTAK",
+        "State": "HARYANA",
+        "Region": "DivReportingCircle",
+        "Division": "Rohtak Division",
+        "Country": "India"
+    }
+]

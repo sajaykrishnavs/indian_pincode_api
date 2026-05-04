@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Vangdari B.O",
+        "District": "AHMEDNAGAR",
+        "State": "MAHARASHTRA",
+        "Region": "Pune Region",
+        "Division": "Ahmednagar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Shrigonda SSK S.O",
+        "District": "AHMEDNAGAR",
+        "State": "MAHARASHTRA",
+        "Region": "Pune Region",
+        "Division": "Ahmednagar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chikhalthanwadi B.O",
+        "District": "NA",
+        "State": "NA",
+        "Region": "Pune Region",
+        "Division": "Ahmednagar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Limpangaon B.O",
+        "District": "AHMEDNAGAR",
+        "State": "MAHARASHTRA",
+        "Region": "Pune Region",
+        "Division": "Ahmednagar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Math Pimpari B.O",
+        "District": "AHMEDNAGAR",
+        "State": "MAHARASHTRA",
+        "Region": "Pune Region",
+        "Division": "Ahmednagar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Madhe Wadgaon B.O",
+        "District": "AHMEDNAGAR",
+        "State": "MAHARASHTRA",
+        "Region": "Pune Region",
+        "Division": "Ahmednagar Division",
+        "Country": "India"
+    }
+]

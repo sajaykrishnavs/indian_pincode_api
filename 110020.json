@@ -1,0 +1,42 @@
+[
+    {
+        "Name": "Tehkhand BO",
+        "District": "SOUTH",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi South Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Okhla Industrial Estate SO",
+        "District": "SOUTH",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi South Division",
+        "Country": "India"
+    },
+    {
+        "Name": "F F C Okhla SO",
+        "District": "South East",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi South Division",
+        "Country": "India"
+    },
+    {
+        "Name": "C R R I SO South Delhi",
+        "District": "South East",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi South Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Okhla Industrial Area Phasei SO",
+        "District": "South East",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi South Division",
+        "Country": "India"
+    }
+]

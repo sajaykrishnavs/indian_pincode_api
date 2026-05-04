@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Navagam BO",
+        "District": "BHAVNAGAR",
+        "State": "GUJARAT",
+        "Region": "Rajkot Region",
+        "Division": "Bhavnagar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Paldi BO",
+        "District": "BHAVNAGAR",
+        "State": "GUJARAT",
+        "Region": "Rajkot Region",
+        "Division": "Bhavnagar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Songadh SO",
+        "District": "BHAVNAGAR",
+        "State": "GUJARAT",
+        "Region": "Rajkot Region",
+        "Division": "Bhavnagar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kumbhan BO",
+        "District": "BHAVNAGAR",
+        "State": "GUJARAT",
+        "Region": "Rajkot Region",
+        "Division": "Bhavnagar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nana Surka BO",
+        "District": "BHAVNAGAR",
+        "State": "GUJARAT",
+        "Region": "Rajkot Region",
+        "Division": "Bhavnagar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Panchvada BO",
+        "District": "BHAVNAGAR",
+        "State": "GUJARAT",
+        "Region": "Rajkot Region",
+        "Division": "Bhavnagar Division",
+        "Country": "India"
+    }
+]

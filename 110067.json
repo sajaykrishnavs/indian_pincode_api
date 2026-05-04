@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Munirka SO",
+        "District": "NEW DELHI",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi South West Division",
+        "Country": "India"
+    },
+    {
+        "Name": "JNU SO",
+        "District": "NEW DELHI",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi South West Division",
+        "Country": "India"
+    },
+    {
+        "Name": "JNU New Campus SO",
+        "District": "NEW DELHI",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi South West Division",
+        "Country": "India"
+    }
+]

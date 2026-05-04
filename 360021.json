@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Devgam BO",
+        "District": "RAJKOT",
+        "State": "GUJARAT",
+        "Region": "Rajkot Region",
+        "Division": "Rajkot Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mota Vada BO",
+        "District": "RAJKOT",
+        "State": "GUJARAT",
+        "Region": "Rajkot Region",
+        "Division": "Rajkot Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Rajkot Metoda Gidc SO",
+        "District": "RAJKOT",
+        "State": "GUJARAT",
+        "Region": "Rajkot Region",
+        "Division": "Rajkot Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Khirsara BO",
+        "District": "RAJKOT",
+        "State": "GUJARAT",
+        "Region": "Rajkot Region",
+        "Division": "Rajkot Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nagar Pipaliya BO",
+        "District": "RAJKOT",
+        "State": "GUJARAT",
+        "Region": "Rajkot Region",
+        "Division": "Rajkot Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dhulia Domda BO",
+        "District": "RAJKOT",
+        "State": "GUJARAT",
+        "Region": "Rajkot Region",
+        "Division": "Rajkot Division",
+        "Country": "India"
+    }
+]

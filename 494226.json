@@ -1,0 +1,498 @@
+[
+    {
+        "Name": "Bayanar B.O",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Joba B.O",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sonabal B.O",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Umargaon B.O",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Badebhirawand BO",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Madagaon",
+        "District": "NA",
+        "State": "NA",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sukurpal",
+        "District": "NA",
+        "State": "NA",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bhagdewa",
+        "District": "NA",
+        "State": "NA",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bolbola",
+        "District": "NA",
+        "State": "NA",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kondagaon S.O",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bunagaon B.O",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chikhalputi BO",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chilputi BO",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pala BO",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Singanpur",
+        "District": "NA",
+        "State": "NA",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ghodagaon",
+        "District": "NA",
+        "State": "NA",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kumharpara",
+        "District": "NA",
+        "State": "NA",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nevta",
+        "District": "NA",
+        "State": "NA",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bansgaon",
+        "District": "NA",
+        "State": "NA",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Badekanera B.O",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bamni Bazar B.O",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dahikonga B.O",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Girola B.O",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kongera B.O",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Malgaon B.O",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Palari B.O",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bakhara BO",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Borgaon BO",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Botikanera BO",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Fukagirola BO",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kamela BO",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kusma BO",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kejang",
+        "District": "NA",
+        "State": "NA",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Makadi",
+        "District": "NA",
+        "State": "NA",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kondagaon Naka S.O",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Banjugani B.O",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chipawand B.O",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Malakot B.O",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mulmula B.O",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bhiragaon-A BO",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bhiragaon-B BO",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chawdang BO",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Eslanar BO",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Madanar BO",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Temrugaon BO",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Aadnar",
+        "District": "NA",
+        "State": "NA",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bafna B.O",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Baniyagaon B.O",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kibaibalenga B.O",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kokodi B.O",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mohlai B.O",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Masora B.O",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Badebendari BO",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chimadi BO",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chotebhirawand BO",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nilji BO",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Rajagaon BO",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Satgaon BO",
+        "District": "KONDAGAON",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sirsikalar",
+        "District": "NA",
+        "State": "NA",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Umargaon-A",
+        "District": "NA",
+        "State": "NA",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chichdongari",
+        "District": "NA",
+        "State": "NA",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pusawand",
+        "District": "NA",
+        "State": "NA",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    }
+]

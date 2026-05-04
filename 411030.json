@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Narayan Peth S.O",
+        "District": "PUNE",
+        "State": "MAHARASHTRA",
+        "Region": "Pune Region",
+        "Division": "Pune City West Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Shaniwar Peth S.O (Pune)",
+        "District": "PUNE",
+        "State": "MAHARASHTRA",
+        "Region": "Pune Region",
+        "Division": "Pune City West Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Lokmanyanagar S.O",
+        "District": "PUNE",
+        "State": "MAHARASHTRA",
+        "Region": "Pune Region",
+        "Division": "Pune City West Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sadashiv Peth S.O",
+        "District": "PUNE",
+        "State": "MAHARASHTRA",
+        "Region": "Pune Region",
+        "Division": "Pune City West Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Rashtra Bhasha Bhavan S.O",
+        "District": "PUNE",
+        "State": "MAHARASHTRA",
+        "Region": "Pune Region",
+        "Division": "Pune City West Division",
+        "Country": "India"
+    },
+    {
+        "Name": "S.P. College S.O",
+        "District": "PUNE",
+        "State": "MAHARASHTRA",
+        "Region": "Pune Region",
+        "Division": "Pune City West Division",
+        "Country": "India"
+    }
+]

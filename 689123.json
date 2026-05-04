@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Puthencavu SO",
+        "District": "ALAPPUZHA",
+        "State": "KERALA",
+        "Region": "DivReportingCircle",
+        "Division": "Tiruvalla Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Arattupuzha BO",
+        "District": "PATHANAMTHITTA",
+        "State": "KERALA",
+        "Region": "DivReportingCircle",
+        "Division": "Tiruvalla Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Edanad BO",
+        "District": "ALAPPUZHA",
+        "State": "KERALA",
+        "Region": "DivReportingCircle",
+        "Division": "Tiruvalla Division",
+        "Country": "India"
+    }
+]

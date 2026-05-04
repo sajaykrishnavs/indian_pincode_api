@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Ravet B.O",
+        "District": "PUNE",
+        "State": "MAHARASHTRA",
+        "Region": "Pune Region",
+        "Division": "Pune Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Cod Dehu Road",
+        "District": "NA",
+        "State": "NA",
+        "Region": "Pune Region",
+        "Division": "Pune Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ordnance Factory Dehu Road S.O",
+        "District": "PUNE",
+        "State": "MAHARASHTRA",
+        "Region": "Pune Region",
+        "Division": "Pune Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dehu Road Cantt S.O",
+        "District": "PUNE",
+        "State": "MAHARASHTRA",
+        "Region": "Pune Region",
+        "Division": "Pune Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kiwale B.O",
+        "District": "PUNE",
+        "State": "MAHARASHTRA",
+        "Region": "Pune Region",
+        "Division": "Pune Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Salumbre B.O",
+        "District": "PUNE",
+        "State": "MAHARASHTRA",
+        "Region": "Pune Region",
+        "Division": "Pune Moffusil Division",
+        "Country": "India"
+    }
+]

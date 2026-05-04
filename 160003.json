@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Aerodrome SO",
+        "District": "CHANDIGARH",
+        "State": "CHANDIGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Chandigarh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Behlana BO",
+        "District": "CHANDIGARH",
+        "State": "CHANDIGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Chandigarh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Raipur Khurd",
+        "District": "NA",
+        "State": "NA",
+        "Region": "DivReportingCircle",
+        "Division": "Chandigarh Division",
+        "Country": "India"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Khajoori Khas BO",
+        "District": "NORTH EAST",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "Delhi East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sabhapur BO",
+        "District": "NORTH EAST",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "Delhi East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Karawal Nagar SO",
+        "District": "NORTH EAST",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "Delhi East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Shaheed Bhagat Singh Colony SO",
+        "District": "NORTH EAST",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "Delhi East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sonia Vihar SO",
+        "District": "NORTH EAST",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "Delhi East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Badarpur Khadar BO",
+        "District": "NORTH EAST",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "Delhi East Division",
+        "Country": "India"
+    }
+]

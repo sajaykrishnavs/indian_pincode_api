@@ -1,0 +1,74 @@
+[
+    {
+        "Name": "CHANDUR B.O",
+        "District": "MEDAK",
+        "State": "TELANGANA",
+        "Region": "Hyderabad City Region",
+        "Division": "Sangareddy Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Panyal B.O",
+        "District": "SANGAREDDY",
+        "State": "TELANGANA",
+        "Region": "Hyderabad City Region",
+        "Division": "Sangareddy Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Lingapur B.O",
+        "District": "SANGAREDDY",
+        "State": "TELANGANA",
+        "Region": "Hyderabad City Region",
+        "Division": "Sangareddy Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sirpura S.O",
+        "District": "SANGAREDDY",
+        "State": "TELANGANA",
+        "Region": "Hyderabad City Region",
+        "Division": "Sangareddy Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Konyal B.O",
+        "District": "SANGAREDDY",
+        "State": "TELANGANA",
+        "Region": "Hyderabad City Region",
+        "Division": "Sangareddy Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Cheelpechedu B.O",
+        "District": "MEDAK",
+        "State": "TELANGANA",
+        "Region": "Hyderabad City Region",
+        "Division": "Sangareddy Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sommakkapet B.O",
+        "District": "MEDAK",
+        "State": "TELANGANA",
+        "Region": "Hyderabad City Region",
+        "Division": "Sangareddy Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ajjamarry B.O",
+        "District": "MEDAK",
+        "State": "TELANGANA",
+        "Region": "Hyderabad City Region",
+        "Division": "Sangareddy Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Faizabad B.O",
+        "District": "MEDAK",
+        "State": "TELANGANA",
+        "Region": "Hyderabad City Region",
+        "Division": "Sangareddy Division",
+        "Country": "India"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Puthenambalam BO",
+        "District": "KOLLAM",
+        "State": "KERALA",
+        "Region": "DivReportingCircle",
+        "Division": "Pathanamthitta Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Manampuzha BO",
+        "District": "KOLLAM",
+        "State": "KERALA",
+        "Region": "DivReportingCircle",
+        "Division": "Pathanamthitta Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kadambanad South SO",
+        "District": "PATHANAMTHITTA",
+        "State": "KERALA",
+        "Region": "DivReportingCircle",
+        "Division": "Pathanamthitta Division",
+        "Country": "India"
+    }
+]

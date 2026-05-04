@@ -1,0 +1,42 @@
+[
+    {
+        "Name": "Kuruknalo BO",
+        "District": "BOKARO",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Hazaribagh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Konardam SO",
+        "District": "HAZARIBAGH",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Hazaribagh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chuttey BO",
+        "District": "BOKARO",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Hazaribagh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chatrochatti BO",
+        "District": "BOKARO",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Hazaribagh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jumrapahar",
+        "District": "BOKARO",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Hazaribagh Division",
+        "Country": "India"
+    }
+]

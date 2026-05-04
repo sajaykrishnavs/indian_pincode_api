@@ -1,0 +1,954 @@
+[
+    {
+        "Name": "Mulana BO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Poonam Nagar BO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Keeta BO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sam BO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sonu BO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dabla BO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dewa BO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ekalpar",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Malingda",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Doojasar",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Hameeron Ki Basti",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kula Tala",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nijau",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Lohar",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Buranwali",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Basna",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Asoda",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Patanwali",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jhalariya",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Balidad Ki Basti",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jerat",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bhanbhara",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Shobh",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Gandhi Colony Jaisalmer SO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mokhala BO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Adabala BO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bandha BO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bhoo BO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dhaisar BO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Narsinghaon Ki Dhani BO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Amarsalagar BO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Khuiyala BO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Tejpala BO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Geraja",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Tibansar",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mehrana",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Gogade",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Changaniyon Ki Basti",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Rabhlau Fakironwala",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Badhwa",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kuntara",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jiyau Khara",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bhiloi",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Harnau",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Murar",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Karam Wala",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kuldhar",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dhuliya",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dhanwa",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Akal",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Hapa",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jaisalmer Bsf SO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jaisalmer Gopa Chowk SO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chhatrel BO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Rasla BO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Parewar BO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chatogarh BO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nedai BO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sultana BO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chelak BO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kalibhar",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bhinda Mangaliyowala",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Muhar",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kalyanpura",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Brahm Nagar",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Buili",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mehna",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Khuifatoojanwali At Khadoojan",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Maghla",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kalau",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Relna",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Karada",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Adroi @ Bhilon Ki Dhani",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kotha",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jaisalmer Ignp Colony SO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jaisalmer HO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Damodara BO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Roopsi BO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Badoda Gaon BO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Deora BO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Baramsar BO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Salkha BO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Lanela BO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Drablapar",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Hakra",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Turkon Ki Basti",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Siyambar",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Joga",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Siyalon Ki Basti",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bhuwana",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Suwar",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mehnau",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Khariya (Bhaikhan)",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Karta",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dhanana",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kumhar Kotha",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jodha",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Moolana",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bhadasar BO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dedha BO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bhagu Ka Gaon BO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Khinya BO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bida BO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kanoi BO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kathori BO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Asoo Ka Tala",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Thoohar",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Boha",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chaudhariya",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Shahra",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Janiya",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jamrau",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Edewali",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mandhalwali",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Phaleri",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bhopa",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nagraja",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Beenjota",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jaisalmer Collectorate SO",
+        "District": "JAISALMER",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Jaisalmer Division",
+        "Country": "India"
+    }
+]

@@ -1,0 +1,378 @@
+[
+    {
+        "Name": "Halalpur BO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kailashpur BO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sadak Dudhli BO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Tiwaya BO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Unali BO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bajoria Marg SO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Khumran Pul SO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Qutubsher SO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Saharanpur City SO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nazirpura Devli BO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pundain BO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Badheri Ghoghu BO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sabdalpur BO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chakrata Road SO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Hakikat Nagar SO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Khalasi Line SO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Labour Colony SO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mission Compound SO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nehru Market SO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Hassanpur BO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mavi Kalan BO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nandi Firozpur BO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Harpal BO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Rani Bazar SO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Saharanpur HO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dhakdei BO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "SHariya BO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Malhipur BO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Shekhpura Qudeem BO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nagrajpur BO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Baliakheri BO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Salempur Bhukheri BO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Gatta Mill SO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Gopal Nagar SO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Paper Mill SO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Macharheri BO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Phandpuri BO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pheraheri BO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kankarkui BO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sunheti Kharkhari BO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Khalapar SO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Lakhi Gate SO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mangal Nagar SO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mazahir Uloom SO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Saharanpur Kutchery SO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Veer Nagar SO",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "NDC Saharanpur",
+        "District": "SAHARANPUR",
+        "State": "UTTAR PRADESH",
+        "Region": "Bareilly Region",
+        "Division": "Saharanpur Division",
+        "Country": "India"
+    }
+]

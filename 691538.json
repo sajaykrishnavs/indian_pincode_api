@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Kokkad BO",
+        "District": "KOLLAM",
+        "State": "KERALA",
+        "Region": "DivReportingCircle",
+        "Division": "Quilon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Thalachira BO",
+        "District": "KOLLAM",
+        "State": "KERALA",
+        "Region": "DivReportingCircle",
+        "Division": "Quilon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Vettikavala SO",
+        "District": "KOLLAM",
+        "State": "KERALA",
+        "Region": "DivReportingCircle",
+        "Division": "Quilon Division",
+        "Country": "India"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Shimla East SO",
+        "District": "SHIMLA",
+        "State": "HIMACHAL PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Shimla Division",
+        "Country": "India"
+    },
+    {
+        "Name": "HPSectt SO",
+        "District": "SHIMLA",
+        "State": "HIMACHAL PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Shimla Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Khalini SO",
+        "District": "SHIMLA",
+        "State": "HIMACHAL PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Shimla Division",
+        "Country": "India"
+    }
+]

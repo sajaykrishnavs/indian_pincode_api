@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Kulharia BO",
+        "District": "BHOJPUR",
+        "State": "BIHAR",
+        "Region": "DivReportingCircle",
+        "Division": "Bhojpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pareo BO",
+        "District": "PATNA",
+        "State": "BIHAR",
+        "Region": "DivReportingCircle",
+        "Division": "Bhojpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Koilwar SO",
+        "District": "BHOJPUR",
+        "State": "BIHAR",
+        "Region": "DivReportingCircle",
+        "Division": "Bhojpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sakaddi BO",
+        "District": "BHOJPUR",
+        "State": "BIHAR",
+        "Region": "DivReportingCircle",
+        "Division": "Bhojpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dhandihan BO",
+        "District": "BHOJPUR",
+        "State": "BIHAR",
+        "Region": "DivReportingCircle",
+        "Division": "Bhojpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Katkaira BO",
+        "District": "BHOJPUR",
+        "State": "BIHAR",
+        "Region": "DivReportingCircle",
+        "Division": "Bhojpur Division",
+        "Country": "India"
+    }
+]

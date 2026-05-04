@@ -1,0 +1,34 @@
+[
+    {
+        "Name": "New Ashok Nagar S.O",
+        "District": "EAST",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "Delhi East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Vasundhra Enclave SO",
+        "District": "EAST",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "Delhi East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ghazipur BO",
+        "District": "EAST",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "Delhi East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mayur Vihar PhIII SO",
+        "District": "EAST",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "Delhi East Division",
+        "Country": "India"
+    }
+]

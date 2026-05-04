@@ -1,0 +1,34 @@
+[
+    {
+        "Name": "Netarhat SO",
+        "District": "LATEHAR",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Gumla Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dumarapath BO",
+        "District": "GUMLA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Gumla Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jobhipath BO",
+        "District": "GUMLA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Gumla Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kujam",
+        "District": "GUMLA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Gumla Division",
+        "Country": "India"
+    }
+]

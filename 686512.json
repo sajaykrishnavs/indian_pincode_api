@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Urakkanadu BO",
+        "District": "KOTTAYAM",
+        "State": "KERALA",
+        "Region": "Kochi Region",
+        "Division": "Changanacherry Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chittadi BO",
+        "District": "KOTTAYAM",
+        "State": "KERALA",
+        "Region": "Kochi Region",
+        "Division": "Changanacherry Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Inchiyani BO",
+        "District": "KOTTAYAM",
+        "State": "KERALA",
+        "Region": "Kochi Region",
+        "Division": "Changanacherry Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Vengathanam BO",
+        "District": "KOTTAYAM",
+        "State": "KERALA",
+        "Region": "Kochi Region",
+        "Division": "Changanacherry Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Edakkunnam BO",
+        "District": "KOTTAYAM",
+        "State": "KERALA",
+        "Region": "Kochi Region",
+        "Division": "Changanacherry Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Parathode SO Kottayam",
+        "District": "KOTTAYAM",
+        "State": "KERALA",
+        "Region": "Kochi Region",
+        "Division": "Changanacherry Division",
+        "Country": "India"
+    }
+]

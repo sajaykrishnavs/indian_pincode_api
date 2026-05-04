@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "SORAMPUR BO",
+        "District": "PATNA",
+        "State": "BIHAR",
+        "Region": "DivReportingCircle",
+        "Division": "Patna Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Alampur Gonpura BO",
+        "District": "PATNA",
+        "State": "BIHAR",
+        "Region": "DivReportingCircle",
+        "Division": "Patna Division",
+        "Country": "India"
+    },
+    {
+        "Name": "DHIBRA BO",
+        "District": "PATNA",
+        "State": "BIHAR",
+        "Region": "DivReportingCircle",
+        "Division": "Patna Division",
+        "Country": "India"
+    },
+    {
+        "Name": "MOBARAKPUR BO",
+        "District": "PATNA",
+        "State": "BIHAR",
+        "Region": "DivReportingCircle",
+        "Division": "Patna Division",
+        "Country": "India"
+    },
+    {
+        "Name": "P.SHARIF S.O",
+        "District": "PATNA",
+        "State": "BIHAR",
+        "Region": "DivReportingCircle",
+        "Division": "Patna Division",
+        "Country": "India"
+    },
+    {
+        "Name": "DHANAUT BO",
+        "District": "PATNA",
+        "State": "BIHAR",
+        "Region": "DivReportingCircle",
+        "Division": "Patna Division",
+        "Country": "India"
+    }
+]

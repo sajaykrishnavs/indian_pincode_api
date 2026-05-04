@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Padam BO",
+        "District": "PATHANAMTHITTA",
+        "State": "KERALA",
+        "Region": "DivReportingCircle",
+        "Division": "Pathanamthitta Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mancode BO",
+        "District": "KOLLAM",
+        "State": "KERALA",
+        "Region": "DivReportingCircle",
+        "Division": "Pathanamthitta Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kalanjoor SO",
+        "District": "PATHANAMTHITTA",
+        "State": "KERALA",
+        "Region": "DivReportingCircle",
+        "Division": "Pathanamthitta Division",
+        "Country": "India"
+    }
+]

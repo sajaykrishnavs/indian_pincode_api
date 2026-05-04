@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Gudur H.O",
+        "District": "Tirupati",
+        "State": "ANDHRA PRADESH",
+        "Region": "Vijayawada Region",
+        "Division": "Gudur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Gudur East S.O",
+        "District": "SPSR NELLORE",
+        "State": "ANDHRA PRADESH",
+        "Region": "Vijayawada Region",
+        "Division": "Gudur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Malavyanagar S.O",
+        "District": "SPSR NELLORE",
+        "State": "ANDHRA PRADESH",
+        "Region": "Vijayawada Region",
+        "Division": "Gudur Division",
+        "Country": "India"
+    }
+]

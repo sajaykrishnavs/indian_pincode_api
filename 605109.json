@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Olundiyapattu BO",
+        "District": "VILLUPURAM",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Pondicherry Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pulichapallam BO",
+        "District": "VILLUPURAM",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Pondicherry Division",
+        "Country": "India"
+    },
+    {
+        "Name": "VParangini BO",
+        "District": "VILLUPURAM",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Pondicherry Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Katrampakkam BO",
+        "District": "VILLUPURAM",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Pondicherry Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Vanur SO",
+        "District": "VILLUPURAM",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Pondicherry Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Semangalam BO",
+        "District": "VILLUPURAM",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Pondicherry Division",
+        "Country": "India"
+    }
+]

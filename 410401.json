@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Udhewadi",
+        "District": "PUNE",
+        "State": "MAHARASHTRA",
+        "Region": "Pune Region",
+        "Division": "Pune Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Lonavala S.O",
+        "District": "PUNE",
+        "State": "MAHARASHTRA",
+        "Region": "Pune Region",
+        "Division": "Pune Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kusgaon BK B.O",
+        "District": "PUNE",
+        "State": "MAHARASHTRA",
+        "Region": "Pune Region",
+        "Division": "Pune Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Lonavala Bazar S.O",
+        "District": "PUNE",
+        "State": "MAHARASHTRA",
+        "Region": "Pune Region",
+        "Division": "Pune Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ambavane B.O",
+        "District": "PUNE",
+        "State": "MAHARASHTRA",
+        "Region": "Pune Region",
+        "Division": "Pune Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Devghar",
+        "District": "PUNE",
+        "State": "MAHARASHTRA",
+        "Region": "Pune Region",
+        "Division": "Pune Moffusil Division",
+        "Country": "India"
+    }
+]

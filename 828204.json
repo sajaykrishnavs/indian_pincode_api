@@ -1,0 +1,74 @@
+[
+    {
+        "Name": "Benagoria BO",
+        "District": "DHANBAD",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Dhanbad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bandrabad BO",
+        "District": "DHANBAD",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Dhanbad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ledaharia BO",
+        "District": "DHANBAD",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Dhanbad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kesarkural BO",
+        "District": "DHANBAD",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Dhanbad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "BHURKUNRABARI",
+        "District": "DHANBAD",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Dhanbad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Daldali BO",
+        "District": "DHANBAD",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Dhanbad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Galfarbari BO",
+        "District": "DHANBAD",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Dhanbad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Urma BO",
+        "District": "DHANBAD",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Dhanbad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mugma SO",
+        "District": "DHANBAD",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Dhanbad Division",
+        "Country": "India"
+    }
+]

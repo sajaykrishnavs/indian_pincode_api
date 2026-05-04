@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Gagret SO",
+        "District": "UNA",
+        "State": "HIMACHAL PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Una Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kaloh BO",
+        "District": "UNA",
+        "State": "HIMACHAL PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Una Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Badoh BO",
+        "District": "UNA",
+        "State": "HIMACHAL PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Una Division",
+        "Country": "India"
+    }
+]

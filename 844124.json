@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Senduari BO",
+        "District": "VAISHALI",
+        "State": "BIHAR",
+        "Region": "DivReportingCircle",
+        "Division": "Vaishali Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Rajapakar SO",
+        "District": "VAISHALI",
+        "State": "BIHAR",
+        "Region": "DivReportingCircle",
+        "Division": "Vaishali Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Panapur Langa BO",
+        "District": "VAISHALI",
+        "State": "BIHAR",
+        "Region": "DivReportingCircle",
+        "Division": "Vaishali Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nainha BO",
+        "District": "VAISHALI",
+        "State": "BIHAR",
+        "Region": "DivReportingCircle",
+        "Division": "Vaishali Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Baikunthpur BO",
+        "District": "VAISHALI",
+        "State": "BIHAR",
+        "Region": "DivReportingCircle",
+        "Division": "Vaishali Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Basara BO",
+        "District": "VAISHALI",
+        "State": "BIHAR",
+        "Region": "DivReportingCircle",
+        "Division": "Vaishali Division",
+        "Country": "India"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Patna Aerodrome SO",
+        "District": "PATNA",
+        "State": "BIHAR",
+        "Region": "DivReportingCircle",
+        "Division": "Patna Division",
+        "Country": "India"
+    },
+    {
+        "Name": "BV College SO",
+        "District": "PATNA",
+        "State": "BIHAR",
+        "Region": "DivReportingCircle",
+        "Division": "Patna Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sheikhpura SO Patna",
+        "District": "PATNA",
+        "State": "BIHAR",
+        "Region": "DivReportingCircle",
+        "Division": "Patna Division",
+        "Country": "India"
+    }
+]

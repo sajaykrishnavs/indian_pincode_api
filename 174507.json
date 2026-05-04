@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Bathu BO",
+        "District": "UNA",
+        "State": "HIMACHAL PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Una Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Butt Kalan BO",
+        "District": "UNA",
+        "State": "HIMACHAL PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Una Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Tahliwal SO",
+        "District": "UNA",
+        "State": "HIMACHAL PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Una Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bathri BO",
+        "District": "UNA",
+        "State": "HIMACHAL PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Una Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Lalri BO",
+        "District": "UNA",
+        "State": "HIMACHAL PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Una Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nangal Khurd BO",
+        "District": "UNA",
+        "State": "HIMACHAL PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Una Division",
+        "Country": "India"
+    }
+]

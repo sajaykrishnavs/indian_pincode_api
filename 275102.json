@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Adari BO",
+        "District": "MAU",
+        "State": "UTTAR PRADESH",
+        "Region": "Gorakhpur Region",
+        "Division": "Azamgarh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mohammadpur Math BO",
+        "District": "MAU",
+        "State": "UTTAR PRADESH",
+        "Region": "Gorakhpur Region",
+        "Division": "Azamgarh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ali Nagar BO",
+        "District": "MAU",
+        "State": "UTTAR PRADESH",
+        "Region": "Gorakhpur Region",
+        "Division": "Azamgarh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Hathini BO",
+        "District": "MAU",
+        "State": "UTTAR PRADESH",
+        "Region": "Gorakhpur Region",
+        "Division": "Azamgarh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kasara BO",
+        "District": "MAU",
+        "State": "UTTAR PRADESH",
+        "Region": "Gorakhpur Region",
+        "Division": "Azamgarh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "INDARA",
+        "District": "MAU",
+        "State": "UTTAR PRADESH",
+        "Region": "Gorakhpur Region",
+        "Division": "Azamgarh Division",
+        "Country": "India"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Name": "Patel Nagar East SO",
+        "District": "WEST",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi Central Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Patel Nagar West SO",
+        "District": "WEST",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi Central Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dada Ghosh Bhawan SO",
+        "District": "WEST",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi Central Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Patel Nagar South SO",
+        "District": "WEST",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi Central Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Patel Nagar SO Central Delhi",
+        "District": "WEST",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi Central Division",
+        "Country": "India"
+    }
+]

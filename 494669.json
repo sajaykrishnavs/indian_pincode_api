@@ -1,0 +1,362 @@
+[
+    {
+        "Name": "Gudum BO",
+        "District": "KANKER",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Hanpatri BO",
+        "District": "KANKER",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Otekasa BO",
+        "District": "KANKER",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Metaghamre",
+        "District": "KANKER",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bhurka B.O",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bhejar B.O",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Tumrisur B.O",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bhanupratappur S.O",
+        "District": "KANKER",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bhiragaon B.O",
+        "District": "KANKER",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kodekurse B.O",
+        "District": "KANKER",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chougel BO",
+        "District": "KANKER",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Godpal BO",
+        "District": "KANKER",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Khutgaon BO",
+        "District": "KANKER",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Hulghat",
+        "District": "KANKER",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Latmarka",
+        "District": "KANKER",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Garda BO",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Padgaal B.O",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Durgkondal B.O",
+        "District": "KANKER",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ghotha BO",
+        "District": "KANKER",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Janakpur BO",
+        "District": "KANKER",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kondrunj BO",
+        "District": "KANKER",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Medo BO",
+        "District": "KANKER",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pevari BO",
+        "District": "KANKER",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sonekanhar BO",
+        "District": "KANKER",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Surungdoh BO",
+        "District": "KANKER",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dodkaenhur",
+        "District": "KANKER",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Padgaal (Hanpatri) B.O",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Karaki B.O",
+        "District": "KANKER",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kewti B.O",
+        "District": "KANKER",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kodapakha B.O",
+        "District": "KANKER",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kulhadkatta B.O",
+        "District": "KANKER",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Michgaon Sadhu B.O",
+        "District": "KANKER",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bangachar BO",
+        "District": "KANKER",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bhandardigi BO",
+        "District": "KANKER",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Karramad BO",
+        "District": "KANKER",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Saradhu Dhamre BO",
+        "District": "KANKER",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sukhai BO",
+        "District": "KANKER",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Asulkhar B.O",
+        "District": "KANKER",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dangra B.O",
+        "District": "KANKER",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kanhargaon BO",
+        "District": "KANKER",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Konde BO",
+        "District": "KANKER",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pharaskot BO",
+        "District": "KANKER",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Shinhari BO",
+        "District": "KANKER",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nirondadih",
+        "District": "KANKER",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jalhur B.O",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    }
+]

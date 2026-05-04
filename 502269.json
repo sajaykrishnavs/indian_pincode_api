@@ -1,0 +1,74 @@
+[
+    {
+        "Name": "Devnoor B.O",
+        "District": "SANGAREDDY",
+        "State": "TELANGANA",
+        "Region": "Hyderabad City Region",
+        "Division": "Sangareddy Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pothulaboguda B.O",
+        "District": "SANGAREDDY",
+        "State": "TELANGANA",
+        "Region": "Hyderabad City Region",
+        "Division": "Sangareddy Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Gorrekal B.O",
+        "District": "SANGAREDDY",
+        "State": "TELANGANA",
+        "Region": "Hyderabad City Region",
+        "Division": "Sangareddy Division",
+        "Country": "India"
+    },
+    {
+        "Name": "RAIPALLY BO",
+        "District": "SANGAREDDY",
+        "State": "TELANGANA",
+        "Region": "Hyderabad City Region",
+        "Division": "Sangareddy Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chevella B.O",
+        "District": "MEDAK",
+        "State": "TELANGANA",
+        "Region": "Hyderabad City Region",
+        "Division": "Sangareddy Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Muslapur B.O",
+        "District": "MEDAK",
+        "State": "TELANGANA",
+        "Region": "Hyderabad City Region",
+        "Division": "Sangareddy Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bodamatpally B.O",
+        "District": "MEDAK",
+        "State": "TELANGANA",
+        "Region": "Hyderabad City Region",
+        "Division": "Sangareddy Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chilver B.O",
+        "District": "MEDAK",
+        "State": "TELANGANA",
+        "Region": "Hyderabad City Region",
+        "Division": "Sangareddy Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Alladurg S.O",
+        "District": "MEDAK",
+        "State": "TELANGANA",
+        "Region": "Hyderabad City Region",
+        "Division": "Sangareddy Division",
+        "Country": "India"
+    }
+]

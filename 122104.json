@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Agon BO",
+        "District": "NUH",
+        "State": "HARYANA",
+        "Region": "DivReportingCircle",
+        "Division": "Faridabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Hirwari BO",
+        "District": "NUH",
+        "State": "HARYANA",
+        "Region": "DivReportingCircle",
+        "Division": "Faridabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Rawli BO",
+        "District": "NUH",
+        "State": "HARYANA",
+        "Region": "DivReportingCircle",
+        "Division": "Faridabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ferozepur Jhirka SO",
+        "District": "NUH",
+        "State": "HARYANA",
+        "Region": "DivReportingCircle",
+        "Division": "Faridabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bewan BO",
+        "District": "NUH",
+        "State": "HARYANA",
+        "Region": "DivReportingCircle",
+        "Division": "Faridabad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Doha BO",
+        "District": "NUH",
+        "State": "HARYANA",
+        "Region": "DivReportingCircle",
+        "Division": "Faridabad Division",
+        "Country": "India"
+    }
+]

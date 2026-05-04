@@ -1,0 +1,194 @@
+[
+    {
+        "Name": "Amarpatti BO",
+        "District": "VARANASI",
+        "State": "UTTAR PRADESH",
+        "Region": "Varanasi Region",
+        "Division": "Varanasi East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chaubepurkhurd BO",
+        "District": "VARANASI",
+        "State": "UTTAR PRADESH",
+        "Region": "Varanasi Region",
+        "Division": "Varanasi East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Hathiyarkalan BO",
+        "District": "VARANASI",
+        "State": "UTTAR PRADESH",
+        "Region": "Varanasi Region",
+        "Division": "Varanasi East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Katari BO",
+        "District": "VARANASI",
+        "State": "UTTAR PRADESH",
+        "Region": "Varanasi Region",
+        "Division": "Varanasi East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Rajapur BO",
+        "District": "VARANASI",
+        "State": "UTTAR PRADESH",
+        "Region": "Varanasi Region",
+        "Division": "Varanasi East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Saraiya No1 BO",
+        "District": "VARANASI",
+        "State": "UTTAR PRADESH",
+        "Region": "Varanasi Region",
+        "Division": "Varanasi East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jagdishpur BO",
+        "District": "VARANASI",
+        "State": "UTTAR PRADESH",
+        "Region": "Varanasi Region",
+        "Division": "Varanasi East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kaithaur BO",
+        "District": "VARANASI",
+        "State": "UTTAR PRADESH",
+        "Region": "Varanasi Region",
+        "Division": "Varanasi East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kohashi BO",
+        "District": "VARANASI",
+        "State": "UTTAR PRADESH",
+        "Region": "Varanasi Region",
+        "Division": "Varanasi East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Lakhanpur BO",
+        "District": "VARANASI",
+        "State": "UTTAR PRADESH",
+        "Region": "Varanasi Region",
+        "Division": "Varanasi East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Udaipur BO",
+        "District": "VARANASI",
+        "State": "UTTAR PRADESH",
+        "Region": "Varanasi Region",
+        "Division": "Varanasi East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ajgara BO",
+        "District": "VARANASI",
+        "State": "UTTAR PRADESH",
+        "Region": "Varanasi Region",
+        "Division": "Varanasi East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bhadawan BO",
+        "District": "VARANASI",
+        "State": "UTTAR PRADESH",
+        "Region": "Varanasi Region",
+        "Division": "Varanasi East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jaimohini Posta BO",
+        "District": "VARANASI",
+        "State": "UTTAR PRADESH",
+        "Region": "Varanasi Region",
+        "Division": "Varanasi East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Gosaipurmohawn BO",
+        "District": "VARANASI",
+        "State": "UTTAR PRADESH",
+        "Region": "Varanasi Region",
+        "Division": "Varanasi East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sultanipur BO",
+        "District": "VARANASI",
+        "State": "UTTAR PRADESH",
+        "Region": "Varanasi Region",
+        "Division": "Varanasi East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Tewar BO",
+        "District": "VARANASI",
+        "State": "UTTAR PRADESH",
+        "Region": "Varanasi Region",
+        "Division": "Varanasi East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Cholapur SO",
+        "District": "VARANASI",
+        "State": "UTTAR PRADESH",
+        "Region": "Varanasi Region",
+        "Division": "Varanasi East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Babiaon BO",
+        "District": "VARANASI",
+        "State": "UTTAR PRADESH",
+        "Region": "Varanasi Region",
+        "Division": "Varanasi East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bela BO",
+        "District": "VARANASI",
+        "State": "UTTAR PRADESH",
+        "Region": "Varanasi Region",
+        "Division": "Varanasi East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Niyar BO",
+        "District": "VARANASI",
+        "State": "UTTAR PRADESH",
+        "Region": "Varanasi Region",
+        "Division": "Varanasi East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Singhpur BO",
+        "District": "VARANASI",
+        "State": "UTTAR PRADESH",
+        "Region": "Varanasi Region",
+        "Division": "Varanasi East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bathauli BO",
+        "District": "VARANASI",
+        "State": "UTTAR PRADESH",
+        "Region": "Varanasi Region",
+        "Division": "Varanasi East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Laskarpur BO",
+        "District": "VARANASI",
+        "State": "UTTAR PRADESH",
+        "Region": "Varanasi Region",
+        "Division": "Varanasi East Division",
+        "Country": "India"
+    }
+]

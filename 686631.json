@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Pattithanam BO",
+        "District": "KOTTAYAM",
+        "State": "KERALA",
+        "Region": "Kochi Region",
+        "Division": "Kottayam Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Vettimukal BO",
+        "District": "KOTTAYAM",
+        "State": "KERALA",
+        "Region": "Kochi Region",
+        "Division": "Kottayam Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ettumanur Junction SO",
+        "District": "KOTTAYAM",
+        "State": "KERALA",
+        "Region": "Kochi Region",
+        "Division": "Kottayam Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Punnathura West BO",
+        "District": "KOTTAYAM",
+        "State": "KERALA",
+        "Region": "Kochi Region",
+        "Division": "Kottayam Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ettumanur SO",
+        "District": "KOTTAYAM",
+        "State": "KERALA",
+        "Region": "Kochi Region",
+        "Division": "Kottayam Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kottakkapuram BO",
+        "District": "KOTTAYAM",
+        "State": "KERALA",
+        "Region": "Kochi Region",
+        "Division": "Kottayam Division",
+        "Country": "India"
+    }
+]

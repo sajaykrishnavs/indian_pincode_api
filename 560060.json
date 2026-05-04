@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Kengeri S.O",
+        "District": "BENGALURU URBAN",
+        "State": "KARNATAKA",
+        "Region": "Bengaluru HQ Region",
+        "Division": "Bengaluru South Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chudenapura B.O",
+        "District": "BENGALURU URBAN",
+        "State": "KARNATAKA",
+        "Region": "Bengaluru HQ Region",
+        "Division": "Bengaluru South Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sulikere B.O",
+        "District": "BENGALURU RURAL",
+        "State": "KARNATAKA",
+        "Region": "Bengaluru HQ Region",
+        "Division": "Bengaluru South Division",
+        "Country": "India"
+    }
+]

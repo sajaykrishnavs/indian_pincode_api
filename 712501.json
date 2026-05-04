@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Jirat BO",
+        "District": "HOOGHLY",
+        "State": "WEST BENGAL",
+        "Region": "South Bengal Region",
+        "Division": "Hooghly North Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Basna BO",
+        "District": "HOOGHLY",
+        "State": "WEST BENGAL",
+        "Region": "South Bengal Region",
+        "Division": "Hooghly North Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Patuligram BO",
+        "District": "HOOGHLY",
+        "State": "WEST BENGAL",
+        "Region": "South Bengal Region",
+        "Division": "Hooghly North Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Balagarh SO",
+        "District": "HOOGHLY",
+        "State": "WEST BENGAL",
+        "Region": "South Bengal Region",
+        "Division": "Hooghly North Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Milangarh BO",
+        "District": "HOOGHLY",
+        "State": "WEST BENGAL",
+        "Region": "South Bengal Region",
+        "Division": "Hooghly North Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Panchpara BO",
+        "District": "HOOGHLY",
+        "State": "WEST BENGAL",
+        "Region": "South Bengal Region",
+        "Division": "Hooghly North Division",
+        "Country": "India"
+    }
+]

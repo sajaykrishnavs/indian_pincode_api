@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Bhatian Khurd BO",
+        "District": "MALERKOTLA",
+        "State": "PUNJAB",
+        "Region": "DivReportingCircle",
+        "Division": "Sangrur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kandhargarh BO",
+        "District": "SANGRUR",
+        "State": "PUNJAB",
+        "Region": "DivReportingCircle",
+        "Division": "Sangrur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bagrian SO",
+        "District": "MALERKOTLA",
+        "State": "PUNJAB",
+        "Region": "DivReportingCircle",
+        "Division": "Sangrur Division",
+        "Country": "India"
+    }
+]

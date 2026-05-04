@@ -1,0 +1,74 @@
+[
+    {
+        "Name": "Kuchipudi B.O",
+        "District": "SURYAPET",
+        "State": "TELANGANA",
+        "Region": "Hyderabad Region",
+        "Division": "Suryapet Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kapugal B.O",
+        "District": "SURYAPET",
+        "State": "TELANGANA",
+        "Region": "Hyderabad Region",
+        "Division": "Suryapet Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ramalaxmipuram B.O",
+        "District": "SURYAPET",
+        "State": "TELANGANA",
+        "Region": "Hyderabad Region",
+        "Division": "Suryapet Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Gudibanda S.O",
+        "District": "SURYAPET",
+        "State": "TELANGANA",
+        "Region": "Hyderabad Region",
+        "Division": "Suryapet Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ganapavaram B.O",
+        "District": "SURYAPET",
+        "State": "TELANGANA",
+        "Region": "Hyderabad Region",
+        "Division": "Suryapet Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pale Annaram B.O",
+        "District": "SURYAPET",
+        "State": "TELANGANA",
+        "Region": "Hyderabad Region",
+        "Division": "Suryapet Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Togarrai B.O",
+        "District": "SURYAPET",
+        "State": "TELANGANA",
+        "Region": "Hyderabad Region",
+        "Division": "Suryapet Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Erravaram B.O",
+        "District": "SURYAPET",
+        "State": "TELANGANA",
+        "Region": "Hyderabad Region",
+        "Division": "Suryapet Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kandibanda B.O",
+        "District": "SURYAPET",
+        "State": "TELANGANA",
+        "Region": "Hyderabad Region",
+        "Division": "Suryapet Division",
+        "Country": "India"
+    }
+]

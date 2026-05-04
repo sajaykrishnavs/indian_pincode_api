@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Radhanagar BO",
+        "District": "HOOGHLY",
+        "State": "WEST BENGAL",
+        "Region": "South Bengal Region",
+        "Division": "Hooghly North Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chatosarsa BO",
+        "District": "HOOGHLY",
+        "State": "WEST BENGAL",
+        "Region": "South Bengal Region",
+        "Division": "Hooghly North Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Hoera BO",
+        "District": "HOOGHLY",
+        "State": "WEST BENGAL",
+        "Region": "South Bengal Region",
+        "Division": "Hooghly North Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Haridaspur BO",
+        "District": "HOOGHLY",
+        "State": "WEST BENGAL",
+        "Region": "South Bengal Region",
+        "Division": "Hooghly North Division",
+        "Country": "India"
+    },
+    {
+        "Name": "KHANYAN BO",
+        "District": "HOOGHLY",
+        "State": "WEST BENGAL",
+        "Region": "South Bengal Region",
+        "Division": "Hooghly North Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Itachuna SO",
+        "District": "HOOGHLY",
+        "State": "WEST BENGAL",
+        "Region": "South Bengal Region",
+        "Division": "Hooghly North Division",
+        "Country": "India"
+    }
+]

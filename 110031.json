@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Gandhi Nagar Bazar SO",
+        "District": "SHAHDARA",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "Delhi East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kailash Nagar SO",
+        "District": "SHAHDARA",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "Delhi East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Shastri Nagar SO East Delhi",
+        "District": "EAST",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "Delhi East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Gandhi Nagar SO East Delhi",
+        "District": "SHAHDARA",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "Delhi East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Geeta Colony SO",
+        "District": "SHAHDARA",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "Delhi East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Rajgarh Colony SO",
+        "District": "EAST",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "Delhi East Division",
+        "Country": "India"
+    }
+]

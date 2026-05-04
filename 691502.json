@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Koduvila BO",
+        "District": "KOLLAM",
+        "State": "KERALA",
+        "Region": "DivReportingCircle",
+        "Division": "Quilon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Munroethuruthu BO",
+        "District": "KOLLAM",
+        "State": "KERALA",
+        "Region": "DivReportingCircle",
+        "Division": "Quilon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "East Kallada SO",
+        "District": "KOLLAM",
+        "State": "KERALA",
+        "Region": "DivReportingCircle",
+        "Division": "Quilon Division",
+        "Country": "India"
+    }
+]

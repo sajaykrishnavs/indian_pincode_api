@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Bowbazar SO Kolkata",
+        "District": "KOLKATA",
+        "State": "WEST BENGAL",
+        "Region": "Kolkata Region",
+        "Division": "Kolkata Central Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Yogayog Bhawan SO",
+        "District": "KOLKATA",
+        "State": "WEST BENGAL",
+        "Region": "Kolkata Region",
+        "Division": "Kolkata Central Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sankaritola SO",
+        "District": "KOLKATA",
+        "State": "WEST BENGAL",
+        "Region": "Kolkata Region",
+        "Division": "Kolkata East Division",
+        "Country": "India"
+    }
+]

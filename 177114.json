@@ -1,0 +1,34 @@
+[
+    {
+        "Name": "Paisa BO",
+        "District": "KANGRA",
+        "State": "HIMACHAL PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Dehra Gopipur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Khabli BO",
+        "District": "KANGRA",
+        "State": "HIMACHAL PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Dehra Gopipur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bankhandi SO",
+        "District": "KANGRA",
+        "State": "HIMACHAL PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Dehra Gopipur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Gher BO",
+        "District": "KANGRA",
+        "State": "HIMACHAL PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Dehra Gopipur Division",
+        "Country": "India"
+    }
+]

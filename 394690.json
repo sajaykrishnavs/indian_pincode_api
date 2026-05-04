@@ -1,0 +1,66 @@
+[
+    {
+        "Name": "Bhojpur Najik BO",
+        "District": "TAPI",
+        "State": "GUJARAT",
+        "Region": "Vadodara Region",
+        "Division": "Bardoli Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Degama BO",
+        "District": "TAPI",
+        "State": "GUJARAT",
+        "Region": "Vadodara Region",
+        "Division": "Bardoli Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bajipura SO",
+        "District": "TAPI",
+        "State": "GUJARAT",
+        "Region": "Vadodara Region",
+        "Division": "Bardoli Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Butwada BO",
+        "District": "TAPI",
+        "State": "GUJARAT",
+        "Region": "Vadodara Region",
+        "Division": "Bardoli Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Borkhadi BO",
+        "District": "TAPI",
+        "State": "GUJARAT",
+        "Region": "Vadodara Region",
+        "Division": "Bardoli Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kaher BO",
+        "District": "TAPI",
+        "State": "GUJARAT",
+        "Region": "Vadodara Region",
+        "Division": "Bardoli Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Rupvada BO",
+        "District": "TAPI",
+        "State": "GUJARAT",
+        "Region": "Vadodara Region",
+        "Division": "Bardoli Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Lotarva BO",
+        "District": "TAPI",
+        "State": "GUJARAT",
+        "Region": "Vadodara Region",
+        "Division": "Bardoli Division",
+        "Country": "India"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "Name": "Bijpur BO",
+        "District": "BANKURA",
+        "State": "WEST BENGAL",
+        "Region": "South Bengal Region",
+        "Division": "Burdwan Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chandipur Berugram BO",
+        "District": "PURBA BARDHAMAN",
+        "State": "WEST BENGAL",
+        "Region": "South Bengal Region",
+        "Division": "Burdwan Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Rupsa BO",
+        "District": "PURBA BARDHAMAN",
+        "State": "WEST BENGAL",
+        "Region": "South Bengal Region",
+        "Division": "Burdwan Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Somsar BO",
+        "District": "BANKURA",
+        "State": "WEST BENGAL",
+        "Region": "South Bengal Region",
+        "Division": "Burdwan Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ukhrid BO",
+        "District": "PURBA BARDHAMAN",
+        "State": "WEST BENGAL",
+        "Region": "South Bengal Region",
+        "Division": "Burdwan Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nishchintapur BO",
+        "District": "PURBA BARDHAMAN",
+        "State": "WEST BENGAL",
+        "Region": "South Bengal Region",
+        "Division": "Burdwan Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sasanga BO",
+        "District": "PURBA BARDHAMAN",
+        "State": "WEST BENGAL",
+        "Region": "South Bengal Region",
+        "Division": "Burdwan Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Oari BO",
+        "District": "PURBA BARDHAMAN",
+        "State": "WEST BENGAL",
+        "Region": "South Bengal Region",
+        "Division": "Burdwan Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Khandaghosh SO",
+        "District": "PURBA BARDHAMAN",
+        "State": "WEST BENGAL",
+        "Region": "South Bengal Region",
+        "Division": "Burdwan Division",
+        "Country": "India"
+    }
+]

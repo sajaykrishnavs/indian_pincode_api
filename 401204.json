@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Vedhe B.O",
+        "District": "THANE",
+        "State": "MAHARASHTRA",
+        "Region": "Navi Mumbai Region",
+        "Division": "Palghar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Abje B.O",
+        "District": "PALGHAR",
+        "State": "MAHARASHTRA",
+        "Region": "Navi Mumbai Region",
+        "Division": "Palghar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Khaniwali B.O",
+        "District": "PALGHAR",
+        "State": "MAHARASHTRA",
+        "Region": "Navi Mumbai Region",
+        "Division": "Palghar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ganeshpuri",
+        "District": "NA",
+        "State": "NA",
+        "Region": "Navi Mumbai Region",
+        "Division": "Palghar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kelthan B.O",
+        "District": "PALGHAR",
+        "State": "MAHARASHTRA",
+        "Region": "Navi Mumbai Region",
+        "Division": "Palghar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Vajreshwari S.O",
+        "District": "THANE",
+        "State": "MAHARASHTRA",
+        "Region": "Navi Mumbai Region",
+        "Division": "Palghar Division",
+        "Country": "India"
+    }
+]

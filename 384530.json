@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Vadasan BO",
+        "District": "MAHESANA",
+        "State": "GUJARAT",
+        "Region": "Ahmedabad HQ Region",
+        "Division": "Mahesana Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kukarwada SO",
+        "District": "MAHESANA",
+        "State": "GUJARAT",
+        "Region": "Ahmedabad HQ Region",
+        "Division": "Mahesana Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Devda BO",
+        "District": "MAHESANA",
+        "State": "GUJARAT",
+        "Region": "Ahmedabad HQ Region",
+        "Division": "Mahesana Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kelisana BO",
+        "District": "MAHESANA",
+        "State": "GUJARAT",
+        "Region": "Ahmedabad HQ Region",
+        "Division": "Mahesana Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dagavadia BO",
+        "District": "MAHESANA",
+        "State": "GUJARAT",
+        "Region": "Ahmedabad HQ Region",
+        "Division": "Mahesana Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sokhda BO",
+        "District": "MAHESANA",
+        "State": "GUJARAT",
+        "Region": "Ahmedabad HQ Region",
+        "Division": "Mahesana Division",
+        "Country": "India"
+    }
+]

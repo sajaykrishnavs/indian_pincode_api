@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Fakirdanga BO",
+        "District": "NADIA",
+        "State": "WEST BENGAL",
+        "Region": "Kolkata Region",
+        "Division": "Nadia North Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mahisura BO",
+        "District": "NADIA",
+        "State": "WEST BENGAL",
+        "Region": "Kolkata Region",
+        "Division": "Nadia North Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Idrakpur BO",
+        "District": "NADIA",
+        "State": "WEST BENGAL",
+        "Region": "Kolkata Region",
+        "Division": "Nadia North Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Srirampur SO Nadia",
+        "District": "PURBA BARDHAMAN",
+        "State": "WEST BENGAL",
+        "Region": "Kolkata Region",
+        "Division": "Nadia North Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bablari BO",
+        "District": "NADIA",
+        "State": "WEST BENGAL",
+        "Region": "Kolkata Region",
+        "Division": "Nadia North Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bahirchara BO",
+        "District": "NADIA",
+        "State": "WEST BENGAL",
+        "Region": "Kolkata Region",
+        "Division": "Nadia North Division",
+        "Country": "India"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Kilminnal BO",
+        "District": "Ranipet",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Arakkonam Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Puttuthakku BO",
+        "District": "Ranipet",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Arakkonam Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Arapakkam BO",
+        "District": "Ranipet",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Arakkonam Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ratnagiri Kilminnal SO",
+        "District": "Ranipet",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Arakkonam Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Melakuppam BO",
+        "District": "Ranipet",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Arakkonam Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nandiyalam BO",
+        "District": "Ranipet",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Arakkonam Division",
+        "Country": "India"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "Name": "Abbapur B.O",
+        "District": "Mulugu",
+        "State": "TELANGANA",
+        "Region": "Hyderabad Region",
+        "Division": "Hanamkonda Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bandarupalli B.O",
+        "District": "Mulugu",
+        "State": "TELANGANA",
+        "Region": "Hyderabad Region",
+        "Division": "Hanamkonda Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Narsapur B.O",
+        "District": "Mulugu",
+        "State": "TELANGANA",
+        "Region": "Hyderabad Region",
+        "Division": "Hanamkonda Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jaggannapet B.O",
+        "District": "Mulugu",
+        "State": "TELANGANA",
+        "Region": "Hyderabad Region",
+        "Division": "Hanamkonda Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Keshavapur B.O",
+        "District": "Mulugu",
+        "State": "TELANGANA",
+        "Region": "Hyderabad Region",
+        "Division": "Hanamkonda Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Inchencherupalli B.O",
+        "District": "Mulugu",
+        "State": "TELANGANA",
+        "Region": "Hyderabad Region",
+        "Division": "Hanamkonda Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jakaram B.O",
+        "District": "Mulugu",
+        "State": "TELANGANA",
+        "Region": "Hyderabad Region",
+        "Division": "Hanamkonda Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Madanpalli B.O",
+        "District": "Mulugu",
+        "State": "TELANGANA",
+        "Region": "Hyderabad Region",
+        "Division": "Hanamkonda Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mulug S.O",
+        "District": "Mulugu",
+        "State": "TELANGANA",
+        "Region": "Hyderabad Region",
+        "Division": "Hanamkonda Division",
+        "Country": "India"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "Name": "Bhabu BO",
+        "District": "ALMORA",
+        "State": "UTTARAKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Almora Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jhaldungra BO",
+        "District": "ALMORA",
+        "State": "UTTARAKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Almora Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pubhaon BO",
+        "District": "ALMORA",
+        "State": "UTTARAKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Almora Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Rajyura BO",
+        "District": "ALMORA",
+        "State": "UTTARAKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Almora Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bagswar BO",
+        "District": "ALMORA",
+        "State": "UTTARAKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Almora Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chhana Kharkota BO",
+        "District": "ALMORA",
+        "State": "UTTARAKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Almora Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jainti SO",
+        "District": "ALMORA",
+        "State": "UTTARAKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Almora Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Basantpur BO",
+        "District": "ALMORA",
+        "State": "UTTARAKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Almora Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Birkham BO",
+        "District": "ALMORA",
+        "State": "UTTARAKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Almora Division",
+        "Country": "India"
+    }
+]

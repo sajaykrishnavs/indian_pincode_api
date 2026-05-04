@@ -1,0 +1,602 @@
+[
+    {
+        "Name": "Devgaon B.O",
+        "District": "NARAYANPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kohkameta B.O",
+        "District": "NARAYANPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Badejhamri",
+        "District": "NARAYANPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Borawand",
+        "District": "NARAYANPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dhurbeda",
+        "District": "NARAYANPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kasturmeta",
+        "District": "NARAYANPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Khadkagaon",
+        "District": "NARAYANPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kudhargaon",
+        "District": "NARAYANPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Tadopal",
+        "District": "NARAYANPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Timnar",
+        "District": "NARAYANPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Borpal",
+        "District": "NA",
+        "State": "NA",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Khadkagaon (B) B.O",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Telanga B.O",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ghotiya B.O",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bandapal B.O",
+        "District": "NARAYANPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Gadhbengal B.O",
+        "District": "NARAYANPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bawdi",
+        "District": "NARAYANPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Borand",
+        "District": "NARAYANPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Garpa",
+        "District": "NARAYANPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jharavahi",
+        "District": "NARAYANPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kandadi",
+        "District": "NARAYANPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kange",
+        "District": "NARAYANPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Koliyari",
+        "District": "NARAYANPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kukdajhor",
+        "District": "NARAYANPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kutull",
+        "District": "NARAYANPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Metanar",
+        "District": "NARAYANPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Murnar",
+        "District": "NARAYANPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Turtha",
+        "District": "NARAYANPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kerlapal",
+        "District": "NA",
+        "State": "NA",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Brehbeda",
+        "District": "NA",
+        "State": "NA",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Aadnar",
+        "District": "NA",
+        "State": "NA",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bagbeda B.O",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nednar B.O",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kurushnar B.O",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mulle B.O",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chapai B.O",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Narayanpur S.O (Narayanpur)",
+        "District": "NARAYANPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bijli B.O",
+        "District": "NARAYANPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chingnar B.O",
+        "District": "NARAYANPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Remawand B.O",
+        "District": "NARAYANPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Aalnar",
+        "District": "NARAYANPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bamhani",
+        "District": "NARAYANPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nayanar",
+        "District": "NARAYANPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Aadimpar",
+        "District": "NARAYANPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bhatpal",
+        "District": "NA",
+        "State": "NA",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Karmari",
+        "District": "NA",
+        "State": "NA",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bagdongari",
+        "District": "NA",
+        "State": "NA",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ghamandi",
+        "District": "NA",
+        "State": "NA",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Padamkot",
+        "District": "NA",
+        "State": "NA",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Aakabeda B.O",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mohndi B.O",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bakulbahi B.O",
+        "District": "NARAYANPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dandwan B.O",
+        "District": "NARAYANPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Belgaon",
+        "District": "NARAYANPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bharanda",
+        "District": "NARAYANPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sonpur",
+        "District": "NARAYANPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Amsara",
+        "District": "NA",
+        "State": "NA",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dugabengal",
+        "District": "NA",
+        "State": "NA",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kachchapal",
+        "District": "NA",
+        "State": "NA",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chandagaon",
+        "District": "NA",
+        "State": "NA",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chhinari",
+        "District": "NA",
+        "State": "NA",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Matla",
+        "District": "NA",
+        "State": "NA",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sulenga(Guriya)",
+        "District": "NA",
+        "State": "NA",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Erakbhatti B.O",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Benur B.O",
+        "District": "NARAYANPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Edka B.O",
+        "District": "NARAYANPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Gome",
+        "District": "NARAYANPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Khodgaon",
+        "District": "NARAYANPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nelwad",
+        "District": "NARAYANPUR",
+        "State": "CHHATTISGARH",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Karlakha",
+        "District": "NA",
+        "State": "NA",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kalmanar",
+        "District": "NA",
+        "State": "NA",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kundla",
+        "District": "NA",
+        "State": "NA",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pangud",
+        "District": "NA",
+        "State": "NA",
+        "Region": "DivReportingCircle",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "HalamiMunjmeta B.O",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Huchadi B.O",
+        "District": "NA",
+        "State": "NA",
+        "Region": "NA",
+        "Division": "Bastar Division",
+        "Country": "India"
+    }
+]

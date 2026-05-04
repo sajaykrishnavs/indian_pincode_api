@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Raisar BO",
+        "District": "BARNALA",
+        "State": "PUNJAB",
+        "Region": "DivReportingCircle",
+        "Division": "Sangrur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Barnala SO",
+        "District": "BARNALA",
+        "State": "PUNJAB",
+        "Region": "DivReportingCircle",
+        "Division": "Sangrur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ncc Barnala SO",
+        "District": "BARNALA",
+        "State": "PUNJAB",
+        "Region": "DivReportingCircle",
+        "Division": "Sangrur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Barnala Kty SO",
+        "District": "BARNALA",
+        "State": "PUNJAB",
+        "Region": "DivReportingCircle",
+        "Division": "Sangrur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pharwahi BO",
+        "District": "BARNALA",
+        "State": "PUNJAB",
+        "Region": "DivReportingCircle",
+        "Division": "Sangrur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Thikriwala BO",
+        "District": "BARNALA",
+        "State": "PUNJAB",
+        "Region": "DivReportingCircle",
+        "Division": "Sangrur Division",
+        "Country": "India"
+    }
+]

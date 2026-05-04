@@ -1,0 +1,34 @@
+[
+    {
+        "Name": "Pakeertekya B.O",
+        "District": "VISAKHAPATANAM",
+        "State": "ANDHRA PRADESH",
+        "Region": "Visakhapatnam Region",
+        "Division": "Visakhapatnam Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Vedullanarava B.O",
+        "District": "Anakapalli",
+        "State": "ANDHRA PRADESH",
+        "Region": "Visakhapatnam Region",
+        "Division": "Visakhapatnam Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Duvvada B.O",
+        "District": "VISAKHAPATANAM",
+        "State": "ANDHRA PRADESH",
+        "Region": "Visakhapatnam Region",
+        "Division": "Visakhapatnam Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Special Economic Zone P.O",
+        "District": "VISAKHAPATANAM",
+        "State": "ANDHRA PRADESH",
+        "Region": "Visakhapatnam Region",
+        "Division": "Visakhapatnam Division",
+        "Country": "India"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "Name": "Damaraipakkam B.O",
+        "District": "THIRUVALLUR",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Kanchipuram Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Enambakkam B.O",
+        "District": "THIRUVALLUR",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Kanchipuram Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kalpattu B.O",
+        "District": "THIRUVALLUR",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Kanchipuram Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Poorivakkam B.O",
+        "District": "THIRUVALLUR",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Kanchipuram Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Tirukandalam B.O",
+        "District": "THIRUVALLUR",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Kanchipuram Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sembedu B.O",
+        "District": "THIRUVALLUR",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Kanchipuram Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Vengal S.O",
+        "District": "THIRUVALLUR",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Kanchipuram Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Meyyur B.O",
+        "District": "THIRUVALLUR",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Kanchipuram Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Velliyur B.O",
+        "District": "THIRUVALLUR",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Kanchipuram Division",
+        "Country": "India"
+    }
+]

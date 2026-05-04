@@ -1,0 +1,442 @@
+[
+    {
+        "Name": "Ghoti B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Hirdamali B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Zanziya B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Hirapur B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Katangi BK B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pandhari B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Timezari B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Asalpani B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bodalkasa B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bote B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chillati B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ghategaon B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Hausitola B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Malpuri (T) B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Gankhaira B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kalimati B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Khodseoni B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mundipar (Ishwar) B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Soni B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Borgaon B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Gondhekhari B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Meghatola B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nimgaon B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pindkepar B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Girola B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Goregaon S.O (Gondia)",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kosamthondi B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kurhadi B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Babai B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Berdipar Khurd B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bhiwapur B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dhanoli B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Gongale B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Hiratola B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Khairlanji B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Malpuri B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mendipur B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Murpar (Ram) B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pindkepar (T) B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sonegaon B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nimba B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Siregaon B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Murpar B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bhasgaon B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Gidhadi B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pathri (Gondia) B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ambetalao B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bagholi B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bamhani (Mundipar) B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dawadipar B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dawwa (Satwa) B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mangezari B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Satwa B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Shaharwani B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Khadipar B.O",
+        "District": "GONDIA",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Nagpur Moffusil Division",
+        "Country": "India"
+    }
+]

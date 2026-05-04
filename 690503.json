@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Pallickal SO",
+        "District": "ALAPPUZHA",
+        "State": "KERALA",
+        "Region": "Kochi Region",
+        "Division": "Mavelikara Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Illippakulam BO",
+        "District": "ALAPPUZHA",
+        "State": "KERALA",
+        "Region": "Kochi Region",
+        "Division": "Mavelikara Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kattanam BO",
+        "District": "ALAPPUZHA",
+        "State": "KERALA",
+        "Region": "Kochi Region",
+        "Division": "Mavelikara Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Vetticode BO",
+        "District": "ALAPPUZHA",
+        "State": "KERALA",
+        "Region": "Kochi Region",
+        "Division": "Mavelikara Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bharanickavu BO",
+        "District": "ALAPPUZHA",
+        "State": "KERALA",
+        "Region": "Kochi Region",
+        "Division": "Mavelikara Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pallickal Naduvilemuri BO",
+        "District": "ALAPPUZHA",
+        "State": "KERALA",
+        "Region": "Kochi Region",
+        "Division": "Mavelikara Division",
+        "Country": "India"
+    }
+]

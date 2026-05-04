@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "ITI SO Basti",
+        "District": "BASTI",
+        "State": "UTTAR PRADESH",
+        "Region": "Gorakhpur Region",
+        "Division": "Basti Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Orijote SO",
+        "District": "BASTI",
+        "State": "UTTAR PRADESH",
+        "Region": "Gorakhpur Region",
+        "Division": "Basti Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Gandhinagar SO Basti",
+        "District": "BASTI",
+        "State": "UTTAR PRADESH",
+        "Region": "Gorakhpur Region",
+        "Division": "Basti Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Basti Kutchery SO",
+        "District": "BASTI",
+        "State": "UTTAR PRADESH",
+        "Region": "Gorakhpur Region",
+        "Division": "Basti Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Basti HO",
+        "District": "BASTI",
+        "State": "UTTAR PRADESH",
+        "Region": "Gorakhpur Region",
+        "Division": "Basti Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Civil Line SO Basti",
+        "District": "BASTI",
+        "State": "UTTAR PRADESH",
+        "Region": "Gorakhpur Region",
+        "Division": "Basti Division",
+        "Country": "India"
+    }
+]

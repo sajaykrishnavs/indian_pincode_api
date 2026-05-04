@@ -1,0 +1,34 @@
+[
+    {
+        "Name": "Indroda BO",
+        "District": "GANDHINAGAR",
+        "State": "GUJARAT",
+        "Region": "Ahmedabad HQ Region",
+        "Division": "Gandhinagar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Gandhinagar Sector 8 SO",
+        "District": "GANDHINAGAR",
+        "State": "GUJARAT",
+        "Region": "Ahmedabad HQ Region",
+        "Division": "Gandhinagar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Gandhinagar Sector 9 SO",
+        "District": "GANDHINAGAR",
+        "State": "GUJARAT",
+        "Region": "Ahmedabad HQ Region",
+        "Division": "Gandhinagar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Gandhinagar Sector 7 SO",
+        "District": "GANDHINAGAR",
+        "State": "GUJARAT",
+        "Region": "Ahmedabad HQ Region",
+        "Division": "Gandhinagar Division",
+        "Country": "India"
+    }
+]

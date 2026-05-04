@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Kamarajnagar BO",
+        "District": "THIRUVALLUR",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Tambaram Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ernavur SO",
+        "District": "THIRUVALLUR",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Tambaram Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ennore Thermal Station SO",
+        "District": "CHENNAI",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Tambaram Division",
+        "Country": "India"
+    }
+]

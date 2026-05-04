@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Madathara SO",
+        "District": "KOLLAM",
+        "State": "KERALA",
+        "Region": "DivReportingCircle",
+        "Division": "Quilon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kollayil BO",
+        "District": "KOLLAM",
+        "State": "KERALA",
+        "Region": "DivReportingCircle",
+        "Division": "Quilon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Venkolla BO",
+        "District": "KOLLAM",
+        "State": "KERALA",
+        "Region": "DivReportingCircle",
+        "Division": "Quilon Division",
+        "Country": "India"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "Name": "Edappavoor BO",
+        "District": "PATHANAMTHITTA",
+        "State": "KERALA",
+        "Region": "DivReportingCircle",
+        "Division": "Tiruvalla Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Thekkumkal BO",
+        "District": "PATHANAMTHITTA",
+        "State": "KERALA",
+        "Region": "DivReportingCircle",
+        "Division": "Tiruvalla Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kaithakody BO",
+        "District": "PATHANAMTHITTA",
+        "State": "KERALA",
+        "Region": "DivReportingCircle",
+        "Division": "Tiruvalla Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kottathoor SO",
+        "District": "PATHANAMTHITTA",
+        "State": "KERALA",
+        "Region": "DivReportingCircle",
+        "Division": "Tiruvalla Division",
+        "Country": "India"
+    }
+]

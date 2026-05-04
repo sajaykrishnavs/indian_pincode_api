@@ -1,0 +1,34 @@
+[
+    {
+        "Name": "Kunta BO",
+        "District": "VALSAD",
+        "State": "GUJARAT",
+        "Region": "Vadodara Region",
+        "Division": "Valsad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Daman IE SO",
+        "District": "DAMAN",
+        "State": "THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU",
+        "Region": "Vadodara Region",
+        "Division": "Valsad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dabhel BO",
+        "District": "DAMAN",
+        "State": "THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU",
+        "Region": "Vadodara Region",
+        "Division": "Valsad Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kachigam BO",
+        "District": "DAMAN",
+        "State": "THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU",
+        "Region": "Vadodara Region",
+        "Division": "Valsad Division",
+        "Country": "India"
+    }
+]

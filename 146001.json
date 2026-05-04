@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Hoshiarpur City SO",
+        "District": "HOSHIARPUR",
+        "State": "PUNJAB",
+        "Region": "Punjab West Region",
+        "Division": "Hoshiarpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Model Town SO Hoshiarpur",
+        "District": "HOSHIARPUR",
+        "State": "PUNJAB",
+        "Region": "Punjab West Region",
+        "Division": "Hoshiarpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Hoshiarpur HO",
+        "District": "HOSHIARPUR",
+        "State": "PUNJAB",
+        "Region": "Punjab West Region",
+        "Division": "Hoshiarpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bahadurpur Chowk SO",
+        "District": "HOSHIARPUR",
+        "State": "PUNJAB",
+        "Region": "Punjab West Region",
+        "Division": "Hoshiarpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mini Sectt SO",
+        "District": "HOSHIARPUR",
+        "State": "PUNJAB",
+        "Region": "Punjab West Region",
+        "Division": "Hoshiarpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Railway Road SO Hoshiarpur",
+        "District": "HOSHIARPUR",
+        "State": "PUNJAB",
+        "Region": "Punjab West Region",
+        "Division": "Hoshiarpur Division",
+        "Country": "India"
+    }
+]

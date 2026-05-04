@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Rajouri Market S.O",
+        "District": "WEST",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi West Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Janta Market S.O",
+        "District": "WEST",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi West Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Rajouri Garden J 6 S.O",
+        "District": "WEST",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi West Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Subhash Nagar West S.O",
+        "District": "WEST",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi West Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Subhash Nagar S.O (West Delhi)",
+        "District": "WEST",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi West Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Tagore Garden S.O",
+        "District": "WEST",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi West Division",
+        "Country": "India"
+    }
+]

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Pincode API</title>
+</head>
+<body>
+<script>
+(async () => {
+  try {
+    const path = window.location.pathname;
+
+    // Example: /postoffice/683522
+    const parts = path.split("/");
+    const pincode = parts[2];
+
+    if (!pincode || !/^\d{6}$/.test(pincode)) {
+      return send({
+        status: false,
+        message: "Invalid pincode"
+      });
+    }
+
+    const response = await fetch(`${pincode}.json`);
+
+    if (!response.ok) {
+      return send({
+        status: false,
+        message: "No data found"
+      });
+    }
+
+    const data = await response.json();
+
+    send({
+      status: true,
+      pincode: pincode,
+      count: data.length,
+      data: data
+    });
+
+  } catch (e) {
+    send({
+      status: false,
+      message: "Server error"
+    });
+  }
+
+  function send(obj) {
+    document.body.style.fontFamily = "monospace";
+    document.body.style.whiteSpace = "pre";
+    document.body.innerText = JSON.stringify(obj, null, 2);
+  }
+})();
+</script>
+</body>
+</html>

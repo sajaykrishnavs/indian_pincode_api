@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Nallampatti BO",
+        "District": "ERODE",
+        "State": "TAMIL NADU",
+        "Region": "Western Region Coimbatore",
+        "Division": "Erode Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Palakarai BO",
+        "District": "ERODE",
+        "State": "TAMIL NADU",
+        "Region": "Western Region Coimbatore",
+        "Division": "Erode Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pattakaranpalayam BO",
+        "District": "ERODE",
+        "State": "TAMIL NADU",
+        "Region": "Western Region Coimbatore",
+        "Division": "Erode Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Seenapuram BO",
+        "District": "ERODE",
+        "State": "TAMIL NADU",
+        "Region": "Western Region Coimbatore",
+        "Division": "Erode Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sullipalayam BO",
+        "District": "ERODE",
+        "State": "TAMIL NADU",
+        "Region": "Western Region Coimbatore",
+        "Division": "Erode Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Tudupathi SO",
+        "District": "ERODE",
+        "State": "TAMIL NADU",
+        "Region": "Western Region Coimbatore",
+        "Division": "Erode Division",
+        "Country": "India"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "Name": "RATWE B.O",
+        "District": "BOKARO",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Hazaribagh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Digwar BO",
+        "District": "RAMGARH",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Hazaribagh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "CHHOTKI TUNDI B.O",
+        "District": "BOKARO",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Hazaribagh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Marar SO",
+        "District": "RAMGARH",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Hazaribagh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bharechnagar BO",
+        "District": "RAMGARH",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Hazaribagh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kander BO",
+        "District": "BOKARO",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Hazaribagh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Karma BO",
+        "District": "RAMGARH",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Hazaribagh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "UTTRI KARMA B.O",
+        "District": "BOKARO",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Hazaribagh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dhawaiya",
+        "District": "NA",
+        "State": "NA",
+        "Region": "DivReportingCircle",
+        "Division": "Hazaribagh Division",
+        "Country": "India"
+    }
+]

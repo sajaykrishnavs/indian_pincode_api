@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Chanakya Puri SO",
+        "District": "NEW DELHI",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi South West Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Anand Niketan SO",
+        "District": "NEW DELHI",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi South West Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Moti Bagh SO",
+        "District": "NEW DELHI",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi South West Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nanak Pura SO",
+        "District": "NEW DELHI",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi South West Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Malcha Marg SO",
+        "District": "NEW DELHI",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi South West Division",
+        "Country": "India"
+    },
+    {
+        "Name": "South Delhi Campus SO",
+        "District": "NEW DELHI",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "New Delhi South West Division",
+        "Country": "India"
+    }
+]

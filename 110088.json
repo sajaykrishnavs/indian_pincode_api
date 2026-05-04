@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Shalamar BO",
+        "District": "NORTH",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "Delhi North Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Haiderpur SO",
+        "District": "NORTH",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "Delhi North Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Shalimar Bagh SO North West Delhi",
+        "District": "NORTH",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "Delhi North Division",
+        "Country": "India"
+    }
+]

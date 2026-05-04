@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Kharian BO",
+        "District": "SIRSA",
+        "State": "HARYANA",
+        "Region": "DivReportingCircle",
+        "Division": "Hissar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jodhpuria BO",
+        "District": "SIRSA",
+        "State": "HARYANA",
+        "Region": "DivReportingCircle",
+        "Division": "Hissar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sultanpuria BO",
+        "District": "SIRSA",
+        "State": "HARYANA",
+        "Region": "DivReportingCircle",
+        "Division": "Hissar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dohtar BO",
+        "District": "SIRSA",
+        "State": "HARYANA",
+        "Region": "DivReportingCircle",
+        "Division": "Hissar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nanuana BO",
+        "District": "SIRSA",
+        "State": "HARYANA",
+        "Region": "DivReportingCircle",
+        "Division": "Hissar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Rania SO",
+        "District": "SIRSA",
+        "State": "HARYANA",
+        "Region": "DivReportingCircle",
+        "Division": "Hissar Division",
+        "Country": "India"
+    }
+]

@@ -1,0 +1,354 @@
+[
+    {
+        "Name": "Babhandih BO",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dagra BO",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Gulabjhari BO",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Manjhauli BO",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Namudag BO",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pipra BO",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sakaldipa BO",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Udaigarh BO",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Hutukdag",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Khodi",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Lalgarha",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Reganiya B.O",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Khajuri",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Cherai BO",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kauwal BO",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Naudiha Bazar BO",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Saraidih BO",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Telari BO",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dinadag",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kumikalan",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Madwa",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sildag",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sohdagkhurd",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bishunpur BO",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Masihani",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pindrahi",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sahpur",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chhatarpur SO",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chaparwar BO",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dali BO",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Khairadohar BO",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Munkeri BO",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nawa Bazar BO",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dhakcha",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Taridih",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kachanpur",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Karkatta",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kharagpur BO",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Naudiha Khajuri BO",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pachmo BO",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sarsot BO",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chiru",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Cherai-2",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Murumdag",
+        "District": "PALAMU",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Palamau Division",
+        "Country": "India"
+    }
+]

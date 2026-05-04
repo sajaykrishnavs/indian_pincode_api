@@ -1,0 +1,74 @@
+[
+    {
+        "Name": "Jhagroli BO",
+        "District": "MAHENDRAGARH",
+        "State": "HARYANA",
+        "Region": "DivReportingCircle",
+        "Division": "Bhiwani Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pathera BO",
+        "District": "MAHENDRAGARH",
+        "State": "HARYANA",
+        "Region": "DivReportingCircle",
+        "Division": "Bhiwani Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bhucholi BO",
+        "District": "MAHENDRAGARH",
+        "State": "HARYANA",
+        "Region": "DivReportingCircle",
+        "Division": "Bhiwani Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dhana BO",
+        "District": "MAHENDRAGARH",
+        "State": "HARYANA",
+        "Region": "DivReportingCircle",
+        "Division": "Bhiwani Division",
+        "Country": "India"
+    },
+    {
+        "Name": "SURJANWAS",
+        "District": "NA",
+        "State": "NA",
+        "Region": "DivReportingCircle",
+        "Division": "Bhiwani Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bawania SO",
+        "District": "MAHENDRAGARH",
+        "State": "HARYANA",
+        "Region": "DivReportingCircle",
+        "Division": "Bhiwani Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dewas BO",
+        "District": "MAHENDRAGARH",
+        "State": "HARYANA",
+        "Region": "DivReportingCircle",
+        "Division": "Bhiwani Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sundrah BO",
+        "District": "MAHENDRAGARH",
+        "State": "HARYANA",
+        "Region": "DivReportingCircle",
+        "Division": "Bhiwani Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bhojawas BO",
+        "District": "MAHENDRAGARH",
+        "State": "HARYANA",
+        "Region": "DivReportingCircle",
+        "Division": "Bhiwani Division",
+        "Country": "India"
+    }
+]

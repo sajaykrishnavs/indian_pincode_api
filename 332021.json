@@ -1,0 +1,90 @@
+[
+    {
+        "Name": "Nani BO",
+        "District": "SIKAR",
+        "State": "RAJASTHAN",
+        "Region": "DivReportingCircle",
+        "Division": "Sikar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Antri BO",
+        "District": "SIKAR",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Sikar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dujod BO",
+        "District": "SIKAR",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Sikar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mandawara BO",
+        "District": "SIKAR",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Sikar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bajajgram SO",
+        "District": "SIKAR",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Sikar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chandpura BO",
+        "District": "SIKAR",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Sikar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Gokulpura BO",
+        "District": "SIKAR",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Sikar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Harsh BO",
+        "District": "SIKAR",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Sikar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kashikabas BO",
+        "District": "SIKAR",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Sikar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Deogarh BO",
+        "District": "SIKAR",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Sikar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Puran Badi BO",
+        "District": "SIKAR",
+        "State": "RAJASTHAN",
+        "Region": "Jodhpur Region",
+        "Division": "Sikar Division",
+        "Country": "India"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "Name": "Gurio BO",
+        "District": "KODERMA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Hazaribagh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bijaiya",
+        "District": "NA",
+        "State": "NA",
+        "Region": "DivReportingCircle",
+        "Division": "Hazaribagh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Telaiya Dam SO",
+        "District": "KODERMA",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Hazaribagh Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kolhaukala BO",
+        "District": "HAZARIBAGH",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Hazaribagh Division",
+        "Country": "India"
+    }
+]

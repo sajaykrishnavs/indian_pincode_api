@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Arvi B.O",
+        "District": "DHULE",
+        "State": "MAHARASHTRA",
+        "Region": "Regional Office Aurangabad",
+        "Division": "Dhule Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Laling B.O",
+        "District": "DHULE",
+        "State": "MAHARASHTRA",
+        "Region": "Regional Office Aurangabad",
+        "Division": "Dhule Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Purmepada B.O",
+        "District": "DHULE",
+        "State": "MAHARASHTRA",
+        "Region": "Regional Office Aurangabad",
+        "Division": "Dhule Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dhule Midc S.O",
+        "District": "DHULE",
+        "State": "MAHARASHTRA",
+        "Region": "Regional Office Aurangabad",
+        "Division": "Dhule Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dhadre B.O",
+        "District": "DHULE",
+        "State": "MAHARASHTRA",
+        "Region": "Regional Office Aurangabad",
+        "Division": "Dhule Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sadgaon B.O",
+        "District": "DHULE",
+        "State": "MAHARASHTRA",
+        "Region": "Regional Office Aurangabad",
+        "Division": "Dhule Division",
+        "Country": "India"
+    }
+]

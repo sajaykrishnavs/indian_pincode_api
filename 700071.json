@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Middleton Row SO",
+        "District": "KOLKATA",
+        "State": "WEST BENGAL",
+        "Region": "Kolkata Region",
+        "Division": "Kolkata Central Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Russel Street SO",
+        "District": "KOLKATA",
+        "State": "WEST BENGAL",
+        "Region": "Kolkata Region",
+        "Division": "Kolkata Central Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Little Russel Street SO",
+        "District": "KOLKATA",
+        "State": "WEST BENGAL",
+        "Region": "Kolkata Region",
+        "Division": "Kolkata Central Division",
+        "Country": "India"
+    }
+]

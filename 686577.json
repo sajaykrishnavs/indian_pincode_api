@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Meenachil BO",
+        "District": "KOTTAYAM",
+        "State": "KERALA",
+        "Region": "Kochi Region",
+        "Division": "Kottayam Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Poovarani SO",
+        "District": "KOTTAYAM",
+        "State": "KERALA",
+        "Region": "Kochi Region",
+        "Division": "Kottayam Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Madukkakunnu BO",
+        "District": "KOTTAYAM",
+        "State": "KERALA",
+        "Region": "Kochi Region",
+        "Division": "Kottayam Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mallikassery BO",
+        "District": "KOTTAYAM",
+        "State": "KERALA",
+        "Region": "Kochi Region",
+        "Division": "Kottayam Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Njandupara BO",
+        "District": "KOTTAYAM",
+        "State": "KERALA",
+        "Region": "Kochi Region",
+        "Division": "Kottayam Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Elikulam BO",
+        "District": "KOTTAYAM",
+        "State": "KERALA",
+        "Region": "Kochi Region",
+        "Division": "Kottayam Division",
+        "Country": "India"
+    }
+]

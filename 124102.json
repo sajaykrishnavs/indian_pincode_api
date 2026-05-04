@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Madana Kalan BO",
+        "District": "JHAJJAR",
+        "State": "HARYANA",
+        "Region": "DivReportingCircle",
+        "Division": "Rohtak Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Seria BO",
+        "District": "JHAJJAR",
+        "State": "HARYANA",
+        "Region": "DivReportingCircle",
+        "Division": "Rohtak Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chamanpura BO",
+        "District": "JHAJJAR",
+        "State": "HARYANA",
+        "Region": "DivReportingCircle",
+        "Division": "Rohtak Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Birdhana BO",
+        "District": "JHAJJAR",
+        "State": "HARYANA",
+        "Region": "DivReportingCircle",
+        "Division": "Rohtak Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mehrana BO",
+        "District": "JHAJJAR",
+        "State": "HARYANA",
+        "Region": "DivReportingCircle",
+        "Division": "Rohtak Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dujana SO",
+        "District": "JHAJJAR",
+        "State": "HARYANA",
+        "Region": "DivReportingCircle",
+        "Division": "Rohtak Division",
+        "Country": "India"
+    }
+]

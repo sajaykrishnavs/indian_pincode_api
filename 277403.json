@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Belahari BO",
+        "District": "BALLIA",
+        "State": "UTTAR PRADESH",
+        "Region": "Varanasi Region",
+        "Division": "Ballia Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Majhua SO",
+        "District": "BALLIA",
+        "State": "UTTAR PRADESH",
+        "Region": "Varanasi Region",
+        "Division": "Ballia Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dighar BO",
+        "District": "BALLIA",
+        "State": "UTTAR PRADESH",
+        "Region": "Varanasi Region",
+        "Division": "Ballia Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dudhaila Kalan BO",
+        "District": "BALLIA",
+        "State": "UTTAR PRADESH",
+        "Region": "Varanasi Region",
+        "Division": "Ballia Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kanchanpur BO",
+        "District": "BALLIA",
+        "State": "UTTAR PRADESH",
+        "Region": "Varanasi Region",
+        "Division": "Ballia Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Piyaraunta BO",
+        "District": "BALLIA",
+        "State": "UTTAR PRADESH",
+        "Region": "Varanasi Region",
+        "Division": "Ballia Division",
+        "Country": "India"
+    }
+]

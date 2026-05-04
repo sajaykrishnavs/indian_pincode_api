@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Mandaran BO",
+        "District": "HOOGHLY",
+        "State": "WEST BENGAL",
+        "Region": "South Bengal Region",
+        "Division": "Hooghly North Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Paschimpara BO",
+        "District": "HOOGHLY",
+        "State": "WEST BENGAL",
+        "Region": "South Bengal Region",
+        "Division": "Hooghly North Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Satberia BO",
+        "District": "HOOGHLY",
+        "State": "WEST BENGAL",
+        "Region": "South Bengal Region",
+        "Division": "Hooghly North Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Tarahat BO",
+        "District": "HOOGHLY",
+        "State": "WEST BENGAL",
+        "Region": "South Bengal Region",
+        "Division": "Hooghly North Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sripur BO",
+        "District": "HOOGHLY",
+        "State": "WEST BENGAL",
+        "Region": "South Bengal Region",
+        "Division": "Hooghly North Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kamarpukur SO",
+        "District": "HOOGHLY",
+        "State": "WEST BENGAL",
+        "Region": "South Bengal Region",
+        "Division": "Hooghly North Division",
+        "Country": "India"
+    }
+]

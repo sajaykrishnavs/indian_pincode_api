@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Koruta Bazar BO",
+        "District": "VARANASI",
+        "State": "UTTAR PRADESH",
+        "Region": "Varanasi Region",
+        "Division": "Varanasi West Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mangalpur BO",
+        "District": "VARANASI",
+        "State": "UTTAR PRADESH",
+        "Region": "Varanasi Region",
+        "Division": "Varanasi West Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Lohta SO",
+        "District": "VARANASI",
+        "State": "UTTAR PRADESH",
+        "Region": "Varanasi Region",
+        "Division": "Varanasi West Division",
+        "Country": "India"
+    }
+]

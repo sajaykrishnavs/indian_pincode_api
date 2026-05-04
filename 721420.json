@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Baita Bazar SO",
+        "District": "MEDINIPUR WEST",
+        "State": "WEST BENGAL",
+        "Region": "South Bengal Region",
+        "Division": "Contai Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Alangiri BO",
+        "District": "MEDINIPUR EAST",
+        "State": "WEST BENGAL",
+        "Region": "South Bengal Region",
+        "Division": "Contai Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jerthan BO",
+        "District": "MEDINIPUR EAST",
+        "State": "WEST BENGAL",
+        "Region": "South Bengal Region",
+        "Division": "Contai Division",
+        "Country": "India"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Kasauli RI BO",
+        "District": "SOLAN",
+        "State": "HIMACHAL PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Solan Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kasauli MT BO",
+        "District": "SOLAN",
+        "State": "HIMACHAL PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Solan Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kasauli SO",
+        "District": "SOLAN",
+        "State": "HIMACHAL PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Solan Division",
+        "Country": "India"
+    }
+]

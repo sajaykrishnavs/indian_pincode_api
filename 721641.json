@@ -1,0 +1,74 @@
+[
+    {
+        "Name": "Jasora BO",
+        "District": "MEDINIPUR EAST",
+        "State": "WEST BENGAL",
+        "Region": "South Bengal Region",
+        "Division": "Tamluk Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Khanyadihi BO",
+        "District": "MEDINIPUR EAST",
+        "State": "WEST BENGAL",
+        "Region": "South Bengal Region",
+        "Division": "Tamluk Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jiakhali BO",
+        "District": "MEDINIPUR EAST",
+        "State": "WEST BENGAL",
+        "Region": "South Bengal Region",
+        "Division": "Tamluk Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Khukurdaha SO",
+        "District": "MEDINIPUR WEST",
+        "State": "WEST BENGAL",
+        "Region": "South Bengal Region",
+        "Division": "Tamluk Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Brindaban Chak BO",
+        "District": "MEDINIPUR EAST",
+        "State": "WEST BENGAL",
+        "Region": "South Bengal Region",
+        "Division": "Tamluk Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Balakrouth BO",
+        "District": "MEDINIPUR WEST",
+        "State": "WEST BENGAL",
+        "Region": "South Bengal Region",
+        "Division": "Tamluk Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jagannathpur BO",
+        "District": "MEDINIPUR WEST",
+        "State": "WEST BENGAL",
+        "Region": "South Bengal Region",
+        "Division": "Tamluk Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kashinathpur BO",
+        "District": "MEDINIPUR WEST",
+        "State": "WEST BENGAL",
+        "Region": "South Bengal Region",
+        "Division": "Tamluk Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sahapur BO",
+        "District": "MEDINIPUR WEST",
+        "State": "WEST BENGAL",
+        "Region": "South Bengal Region",
+        "Division": "Tamluk Division",
+        "Country": "India"
+    }
+]

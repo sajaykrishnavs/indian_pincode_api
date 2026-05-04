@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Barari BO",
+        "District": "MATHURA",
+        "State": "UTTAR PRADESH",
+        "Region": "Agra Region",
+        "Division": "Mathura Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dhangaon BO",
+        "District": "MATHURA",
+        "State": "UTTAR PRADESH",
+        "Region": "Agra Region",
+        "Division": "Mathura Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kosi Khurd BO",
+        "District": "MATHURA",
+        "State": "UTTAR PRADESH",
+        "Region": "Agra Region",
+        "Division": "Mathura Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sersa BO",
+        "District": "MATHURA",
+        "State": "UTTAR PRADESH",
+        "Region": "Agra Region",
+        "Division": "Mathura Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bhainsa BO",
+        "District": "MATHURA",
+        "State": "UTTAR PRADESH",
+        "Region": "Agra Region",
+        "Division": "Mathura Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mathura Refinery SO",
+        "District": "MATHURA",
+        "State": "UTTAR PRADESH",
+        "Region": "Agra Region",
+        "Division": "Mathura Division",
+        "Country": "India"
+    }
+]

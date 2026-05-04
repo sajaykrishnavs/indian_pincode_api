@@ -1,0 +1,58 @@
+[
+    {
+        "Name": "Basettihalli B.O",
+        "District": "BENGALURU RURAL",
+        "State": "KARNATAKA",
+        "Region": "Bengaluru HQ Region",
+        "Division": "Channapatna Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nagadenahalli S.O",
+        "District": "BENGALURU RURAL",
+        "State": "KARNATAKA",
+        "Region": "Bengaluru HQ Region",
+        "Division": "Bengaluru West Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Doddatumkur B.O",
+        "District": "BENGALURU RURAL",
+        "State": "KARNATAKA",
+        "Region": "Bengaluru HQ Region",
+        "Division": "Channapatna Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Konnagatta B.O",
+        "District": "BENGALURU RURAL",
+        "State": "KARNATAKA",
+        "Region": "Bengaluru HQ Region",
+        "Division": "Channapatna Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Shivapura B.O",
+        "District": "BENGALURU RURAL",
+        "State": "KARNATAKA",
+        "Region": "Bengaluru HQ Region",
+        "Division": "Channapatna Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Veerapura B.O",
+        "District": "BENGALURU RURAL",
+        "State": "KARNATAKA",
+        "Region": "Bengaluru HQ Region",
+        "Division": "Channapatna Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Arakere B.O",
+        "District": "BENGALURU URBAN",
+        "State": "KARNATAKA",
+        "Region": "Bengaluru HQ Region",
+        "Division": "Channapatna Division",
+        "Country": "India"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Reddichavadi BO",
+        "District": "CUDDALORE",
+        "State": "TAMIL NADU",
+        "Region": "Chennai City Region",
+        "Division": "Pondicherry Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pillayarkuppam BO",
+        "District": "PONDICHERRY",
+        "State": "PUDUCHERRY",
+        "Region": "Chennai City Region",
+        "Division": "Pondicherry Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kirumambakkam",
+        "District": "PONDICHERRY",
+        "State": "PUDUCHERRY",
+        "Region": "Chennai City Region",
+        "Division": "Pondicherry Division",
+        "Country": "India"
+    }
+]

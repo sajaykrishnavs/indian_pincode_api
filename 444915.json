@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Dewara B.O",
+        "District": "AMRAVATI",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Amaravati Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Adgaon B.O",
+        "District": "AMRAVATI",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Amaravati Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Katsur B.O",
+        "District": "AMRAVATI",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Amaravati Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Vichori B.O",
+        "District": "AMRAVATI",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Amaravati Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dewara Antora B.O",
+        "District": "AMRAVATI",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Amaravati Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Yawali S.O",
+        "District": "AMRAVATI",
+        "State": "MAHARASHTRA",
+        "Region": "Nagpur Region",
+        "Division": "Amaravati Division",
+        "Country": "India"
+    }
+]

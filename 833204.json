@@ -1,0 +1,466 @@
+[
+    {
+        "Name": "Barachiru BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ghagri BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Icha BO",
+        "District": "SARAIKELA KHARSAWAN",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Narsanda BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pandrasali BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pilka BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Purunia BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Tekrahatu BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Simbiya BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Silpunji",
+        "District": "SARAIKELA KHARSAWAN",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Baralagia BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Barkundia BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dholadih BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Gulia BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kheriatangar BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kokcho BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Roro BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Harila BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Khaspokhria BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ulirajbasa BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ipilsingi BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Argundi  B.O",
+        "District": "SARAIKELA KHARSAWAN",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Rangamati B.O",
+        "District": "SARAIKELA KHARSAWAN",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bagabilla BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bharbharia BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Khuntpani BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Tonto BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "DOPAI B.O.",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Padsa BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kursi BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ruidih BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Karlajodi BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Telai B.O",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jambani B.O",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Petapeti B.O",
+        "District": "SARAIKELA KHARSAWAN",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Baralagra BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Barkella BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bhoya BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": " BARAGUIRA BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Khedchalan BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nakahasa BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Baduri BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bara Torlo BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kuju B.O",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "JMP Chowk SO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Chittimitti BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Gitilipi BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jhalak BO",
+        "District": "SARAIKELA KHARSAWAN",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kathbari BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Keshargaria BO",
+        "District": "SARAIKELA KHARSAWAN",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sarda BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Tantnagar BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Pandabir BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Angardih BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Tentra BO",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Katanga B.O",
+        "District": "WEST SINGHBHUM",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kadalsokwa B.O",
+        "District": "SARAIKELA KHARSAWAN",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jibasai B.O",
+        "District": "SARAIKELA KHARSAWAN",
+        "State": "JHARKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Singhbhum Division",
+        "Country": "India"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Wazirabad Village SO",
+        "District": "CENTRAL",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "Delhi North Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nathupura Village SO",
+        "District": "CENTRAL",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "Delhi North Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jagatpur BO",
+        "District": "NORTH",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "Delhi North Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sant Nagar SO",
+        "District": "CENTRAL",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "Delhi North Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Burari SO",
+        "District": "CENTRAL",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "Delhi North Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Jharoda Majraa BO",
+        "District": "NORTH",
+        "State": "DELHI",
+        "Region": "DivReportingCircle",
+        "Division": "Delhi North Division",
+        "Country": "India"
+    }
+]

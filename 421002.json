@@ -1,0 +1,42 @@
+[
+    {
+        "Name": "Bus Terminus",
+        "District": "THANE",
+        "State": "MAHARASHTRA",
+        "Region": "Navi Mumbai Region",
+        "Division": "Thane Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Station Road Unr 3 S.O",
+        "District": "THANE",
+        "State": "MAHARASHTRA",
+        "Region": "Navi Mumbai Region",
+        "Division": "Thane Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bhaji Market S.O",
+        "District": "THANE",
+        "State": "MAHARASHTRA",
+        "Region": "Navi Mumbai Region",
+        "Division": "Thane Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ulhasnagar 2 S.O",
+        "District": "THANE",
+        "State": "MAHARASHTRA",
+        "Region": "Navi Mumbai Region",
+        "Division": "Thane Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Ulhasnagar 1",
+        "District": "THANE",
+        "State": "MAHARASHTRA",
+        "Region": "Navi Mumbai Region",
+        "Division": "Thane Division",
+        "Country": "India"
+    }
+]

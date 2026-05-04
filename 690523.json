@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Edakulangara BO",
+        "District": "KOLLAM",
+        "State": "KERALA",
+        "Region": "DivReportingCircle",
+        "Division": "Quilon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Thodiyur North BO",
+        "District": "KOLLAM",
+        "State": "KERALA",
+        "Region": "DivReportingCircle",
+        "Division": "Quilon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Thodiyur BO",
+        "District": "KOLLAM",
+        "State": "KERALA",
+        "Region": "DivReportingCircle",
+        "Division": "Quilon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kadathur Ward BO",
+        "District": "KOLLAM",
+        "State": "KERALA",
+        "Region": "DivReportingCircle",
+        "Division": "Quilon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kuthirapanthy BO",
+        "District": "KOLLAM",
+        "State": "KERALA",
+        "Region": "DivReportingCircle",
+        "Division": "Quilon Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Thazhava SO",
+        "District": "KOLLAM",
+        "State": "KERALA",
+        "Region": "DivReportingCircle",
+        "Division": "Quilon Division",
+        "Country": "India"
+    }
+]

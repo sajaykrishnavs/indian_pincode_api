@@ -1,0 +1,34 @@
+[
+    {
+        "Name": "Dyar BO",
+        "District": "KULLU",
+        "State": "HIMACHAL PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Mandi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Garsa SO",
+        "District": "KULLU",
+        "State": "HIMACHAL PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Mandi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Shiah BO",
+        "District": "MANDI",
+        "State": "HIMACHAL PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Mandi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Thela BO",
+        "District": "KULLU",
+        "State": "HIMACHAL PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Mandi Division",
+        "Country": "India"
+    }
+]

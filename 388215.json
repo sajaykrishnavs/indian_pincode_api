@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Khijalpur BO",
+        "District": "KHEDA",
+        "State": "GUJARAT",
+        "Region": "Vadodara Region",
+        "Division": "Anand Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Masra BO",
+        "District": "KHEDA",
+        "State": "GUJARAT",
+        "Region": "Vadodara Region",
+        "Division": "Anand Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Thamna SO Anand",
+        "District": "ANAND",
+        "State": "GUJARAT",
+        "Region": "Vadodara Region",
+        "Division": "Anand Division",
+        "Country": "India"
+    }
+]

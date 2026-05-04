@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Chowbaga BO",
+        "District": "KOLKATA",
+        "State": "WEST BENGAL",
+        "Region": "Kolkata Region",
+        "Division": "Kolkata East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Dhapa SO",
+        "District": "KOLKATA",
+        "State": "WEST BENGAL",
+        "Region": "Kolkata Region",
+        "Division": "Kolkata East Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Nowbhanga SO",
+        "District": "24 PARAGANAS NORTH",
+        "State": "WEST BENGAL",
+        "Region": "Kolkata Region",
+        "Division": "Kolkata East Division",
+        "Country": "India"
+    }
+]

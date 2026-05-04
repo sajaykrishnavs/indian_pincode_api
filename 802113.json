@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Chhotkarajpur BO",
+        "District": "BUXAR",
+        "State": "BIHAR",
+        "Region": "DivReportingCircle",
+        "Division": "Bhojpur Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Keshopur BO",
+        "District": "BUXAR",
+        "State": "BIHAR",
+        "Region": "DivReportingCircle",
+        "Division": "Buxar Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Barkarajpur SO",
+        "District": "BUXAR",
+        "State": "BIHAR",
+        "Region": "DivReportingCircle",
+        "Division": "Bhojpur Division",
+        "Country": "India"
+    }
+]

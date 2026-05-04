@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Billekh BO",
+        "District": "ALMORA",
+        "State": "UTTARAKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Almora Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Shishuwa BO",
+        "District": "ALMORA",
+        "State": "UTTARAKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Almora Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Tarikhet SO",
+        "District": "ALMORA",
+        "State": "UTTARAKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Almora Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Sauni BO",
+        "District": "ALMORA",
+        "State": "UTTARAKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Almora Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Bayeri BO",
+        "District": "ALMORA",
+        "State": "UTTARAKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Almora Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kotar BO",
+        "District": "ALMORA",
+        "State": "UTTARAKHAND",
+        "Region": "DivReportingCircle",
+        "Division": "Almora Division",
+        "Country": "India"
+    }
+]

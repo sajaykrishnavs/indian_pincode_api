@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Shamshi SO",
+        "District": "KULLU",
+        "State": "HIMACHAL PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Mandi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Mohal BO",
+        "District": "KULLU",
+        "State": "HIMACHAL PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Mandi Division",
+        "Country": "India"
+    },
+    {
+        "Name": "Kharihar BO",
+        "District": "KULLU",
+        "State": "HIMACHAL PRADESH",
+        "Region": "DivReportingCircle",
+        "Division": "Mandi Division",
+        "Country": "India"
+    }
+]
